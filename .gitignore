@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Screener generated output
+report.html
+report.csv
+
+# Screener runtime data
+cache/
+history/
+logs/
+
+# IDE
+.idea/
+.vs/
+*.slnx
+
+# Nested repo (decide later)
+Fork/
