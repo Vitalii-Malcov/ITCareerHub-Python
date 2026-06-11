@@ -22,3 +22,6 @@ logs/
 
 # Nested repo (decide later)
 Fork/
+
+# Claude Code tool settings
+.claude/
