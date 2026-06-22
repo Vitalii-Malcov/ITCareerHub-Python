@@ -22,12 +22,30 @@
 """
 
 def remove_duplicates(filename: str) -> None:
-    pass
+    if not isinstance(filename, str):
+        print("Ошибка: имя файла должно быть строкой.")
+        return
+    if not filename:
+        print("Ошибка: имя файла не должно быть пустым.")
+        return
+    try:
+        with open(filename, "r", encoding="utf-8") as file:
+            lines = file.readlines()
+    except FileNotFoundError as e:
+        print(f"File not found: {e}")
+        return
 
+    # Убираем дубликаты, сохраняя порядок dict.fromkeys() запоминает порядок вставки
+    # и хранит каждый ключ только один раз дубликаты исчезают сами
+    unique = list(dict.fromkeys(lines))
 
+    new_filename = f"unique_{filename}"
+    with open(new_filename, "w", encoding="utf-8") as dst:
+        dst.writelines(unique)
+
+    print(f"Дубликаты удалены. Уникальные строки сохранены в {new_filename}.")
 
 remove_duplicates("movies_to_watch.txt")
-# Дубликаты удалены. Уникальные строки сохранены в unique_movies_to_watch.txt.
 
-remove_duplicates("M")
-# File not found: [Errno 2] No such file or directory: 'M'
+
+
