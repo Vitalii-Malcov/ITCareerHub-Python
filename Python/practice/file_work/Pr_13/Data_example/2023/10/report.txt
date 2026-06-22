@@ -1,0 +1,4 @@
+Books,9606
+Clothing,4895
+Electronics,4141
+Full,18642

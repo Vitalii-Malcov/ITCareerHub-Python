@@ -1,0 +1,3 @@
+Clothing,1796
+Electronics,4565
+Full,6361

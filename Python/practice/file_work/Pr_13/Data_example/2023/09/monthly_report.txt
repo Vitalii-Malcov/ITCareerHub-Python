@@ -1,0 +1,6 @@
+Automotive,9287
+Beauty,2384
+Books,4210
+Clothing,6399
+Sports,14115
+Full,36395

@@ -1,0 +1,4 @@
+Automotive,10902
+Electronics,4715
+Sports,12108
+Full,27725

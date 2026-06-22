@@ -1,0 +1,7 @@
+Automotive,6711
+Beauty,3952
+Books,6543
+Clothing,3245
+Electronics,11732
+Toys,6695
+Full,38878

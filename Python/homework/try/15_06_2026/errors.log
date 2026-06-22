@@ -1,0 +1,19 @@
+2026-06-15 12:07:18,142 - ERROR - 1,1.py - 67 - Ошибка: Введено некорректное число: could not convert string to float: 'a'
+2026-06-15 12:07:18,142 - ERROR - 1,1.py - 70 - Ошибка: Деление на ноль невозможно: division by zero
+2026-06-15 12:08:24,957 - ERROR - 2,1.py - 57 - Ошибка: Введено некорректное число: could not convert string to float: 'a'
+2026-06-15 12:08:24,958 - ERROR - 2,1.py - 60 - Ошибка: Деление на ноль невозможно: division by zero
+2026-06-16 21:32:33,636 - ERROR - 2,1.py - 56 - Ошибка: Введено некорректное число: could not convert string to float: '5а'
+2026-06-16 22:25:29,484 - ERROR - task_1.py - 39 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:27:40,642 - ERROR - task_1.py - 39 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:28:08,743 - ERROR - task_1.py - 42 - Ошибка: Деление на ноль невозможно: division by zero
+2026-06-16 22:31:33,866 - ERROR - task_1.py - 39 - Ошибка: Введено некорректное число: could not convert string to float: '5а'
+2026-06-16 22:34:03,977 - ERROR - task_1.py - 39 - Ошибка: Введено некорректное число: could not convert string to float: '5а'
+2026-06-16 22:36:27,831 - ERROR - task_1.py - 40 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:40:20,629 - ERROR - task_1.py - 41 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:41:00,474 - ERROR - task_1.py - 42 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:42:38,146 - ERROR - task_1.py - 42 - Ошибка: Введено некорректное число: could not convert string to float: '5а'
+2026-06-16 22:42:49,791 - ERROR - task_1.py - 47 - Ошибка: Деление на ноль невозможно: division by zero
+2026-06-16 22:45:06,978 - ERROR - task_1.py - 42 - Ошибка: Введено некорректное число: 
+2026-06-16 22:46:18,235 - ERROR - task_1.py - 42 - Ошибка: Введено некорректное число: 
+2026-06-16 22:48:18,667 - ERROR - task_2.py - 56 - Ошибка: Введено некорректное число: could not convert string to float: '5f'
+2026-06-16 22:49:02,654 - ERROR - task_2.py - 56 - Ошибка: Введено некорректное число: could not convert string to float: '5f'

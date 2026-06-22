@@ -1,0 +1,5 @@
+Automotive,1896
+Beauty,3184
+Electronics,9540
+Toys,9794
+Full,24414

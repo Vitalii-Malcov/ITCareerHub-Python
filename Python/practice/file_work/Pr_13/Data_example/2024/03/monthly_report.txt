@@ -1,0 +1,6 @@
+Automotive,5920
+Books,14154
+Clothing,1984
+Electronics,8479
+Toys,6607
+Full,37144

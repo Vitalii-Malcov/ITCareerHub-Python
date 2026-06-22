@@ -1,0 +1,1565 @@
+Содержимое директории 'C:\Users\BOSS\Documents':
+Папки:
+- Codex
+- dumps
+- My Music
+- My Pictures
+- My Videos
+- Visual Studio 18
+- Zoom
+- Мои фигуры
+- Настраиваемые шаблоны Office
+Файлы:
+- desktop.ini
+(.venv) PS D:\IT Karier HaB\Python\Домашняя Работа\Файловая система> python .\2_1.py "C:\Users\BOSS" .log
+Найдены файлы с расширением '.log':
+- C:\Users\BOSS\.codex\.sandbox\sandbox.2026-06-04.log
+- C:\Users\BOSS\.continue\logs\core.log
+- C:\Users\BOSS\.continue\logs\prompt.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\File System\000\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\File System\Origins\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\IndexedDB\https_dzen.ru_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Platform Notifications\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Session Storage\000004.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\360extremebrowser\Chrome\User Data\Default\WebStorage\1\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Abelssoft\SSDFresh\logfile.1.log
+- C:\Users\BOSS\AppData\Local\Abelssoft\SSDFresh\logfile.log
+- C:\Users\BOSS\AppData\Local\CiscoSpark\Logs\media\calls\1763712475001_066ee5b2-9efb-453b-ba6f-bd9b8964abda.log
+- C:\Users\BOSS\AppData\Local\CiscoSpark\Logs\media\calls\1763733825849_894e435c-c9c5-41ba-9dbb-bcdb6d124dcb.log
+- C:\Users\BOSS\AppData\Local\Codex\Logs\2026\06\04\codex-desktop-aa406dd4-7862-43bb-b0e2-406277a2783e-16764-t0-i1-132035-0.log
+- C:\Users\BOSS\AppData\Local\Codex\Logs\2026\06\04\codex-desktop-aa406dd4-7862-43bb-b0e2-406277a2783e-16764-t1-i1-132412-0.log
+- C:\Users\BOSS\AppData\Local\Codex\Logs\2026\06\05\codex-desktop-ba8ec75e-5495-46ee-a643-354da108bb1d-7816-t0-i1-062300-0.log
+- C:\Users\BOSS\AppData\Local\Codex\Logs\2026\06\05\codex-desktop-ba8ec75e-5495-46ee-a643-354da108bb1d-7816-t1-i1-062323-0.log
+- C:\Users\BOSS\AppData\Local\Discord\Discord_updater_rCURRENT.log
+- C:\Users\BOSS\AppData\Local\Discord\SquirrelSetup.log
+- C:\Users\BOSS\AppData\Local\exodus\SquirrelSetup.log
+- C:\Users\BOSS\AppData\Local\exodus\app-24.37.2\SquirrelSetup.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Extension State\000321.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\004\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\006\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\007\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\008\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\009\p\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\009\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\014\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\015\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\028\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\034\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\040\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\041\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\044\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\059\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\061\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\062\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\070\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\071\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\072\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\073\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\074\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\075\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\076\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\077\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\078\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\079\p\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\080\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\081\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\082\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\083\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\084\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\085\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\086\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\087\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\088\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\089\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\090\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\091\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\092\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\093\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\094\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\095\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\096\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\GCM Store\000154.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\GCM Store\Encryption\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\chrome-extension_gjjabgpgjpampikjhjpfhneeoapjbjaf_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_777.ua_0.indexeddb.leveldb\000051.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_account.xiaomi.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_acrobat.adobe.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_alpaca.markets_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_anim-ru.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_anim-ru.net_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_anim-ru.org_0.indexeddb.leveldb\000019.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_animeru.org_0.indexeddb.leveldb\000035.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_animesss.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_animestars.org_0.indexeddb.leveldb\000019.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_animru.org_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_app.alpaca.markets_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_app.blackbox.ai_0.indexeddb.leveldb\000064.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_app.slack.com_0.indexeddb.leveldb\000096.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_apps.microsoft.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_best.aliexpress.com_0.indexeddb.leveldb\000031.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_betking.com.ua_0.indexeddb.leveldb\000012.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_boosty.to_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_broker-app.alpaca.markets_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb\000035.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_chatgpt.com_0.indexeddb.leveldb\000135.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_claude.ai_0.indexeddb.leveldb\000275.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_cloud.mail.ru_0.indexeddb.leveldb\000059.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_de.softonic.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_devicebind.ebay.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_devicebind.ebay.de_0.indexeddb.leveldb\000027.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\001291.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_donghuastream.org_0.indexeddb.leveldb\000055.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb\002894.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_effective-chainsaw-q7w94gqv9664f4xp9.github.dev_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_email.df.eu_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_eu.docs.wps.com_0.indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_event.webinarjam.com_0.indexeddb.leveldb\000012.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_gamma.app_0.indexeddb.leveldb\000010.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_github.com_0.indexeddb.leveldb\000038.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_grok.com_0.indexeddb.leveldb\000019.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_hilbh.noblefoxroar.top_0.indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_keycloak.alpaca.markets_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_kfz.check24.de_0.indexeddb.leveldb\000019.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_kinochina.ru_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_liveball.sx_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_lms.itcareerhub.de_0.indexeddb.leveldb\000063.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_login.klarna.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb\001889.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.ru_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_meet.google.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mega.nz_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mobile.linkedin.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_newsletter.jumpers-fitness.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_northadblock.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_o2entertainment-games.net_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_okko.tv_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_open.spotify.com_0.indexeddb.leveldb\000016.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pages.ebay.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pay.ebay.de_0.indexeddb.leveldb\000062.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_payments.klarna.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pricing.webex.com_0.indexeddb.leveldb\000013.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_ru.wps.com_0.indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_shop.oracle.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_sign.zoho.com_0.indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_signin.ebay.de_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_stamina-online.com_0.indexeddb.leveldb\000015.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_stan.xing.com_0.indexeddb.leveldb\000011.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_tranquil-trumpet-334.notion.site_0.indexeddb.leveldb\000031.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_unlockcontent.org_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_vimeo.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_vk.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_vkvideo.ru_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_wargaming.net_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb\000893.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\005254.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_whitebit.com_0.indexeddb.leveldb\000070.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.autodoc.de_0.indexeddb.leveldb\000011.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.autoteiledirekt.de_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.aviasales.ru_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.de-online.ru_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.drive2.ru_0.indexeddb.leveldb\000027.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.ebay.com_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.ebay.de_0.indexeddb.leveldb\000143.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.fragpunk.com_0.indexeddb.leveldb\000019.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.grannyfinder.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.hood.de_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.ivi.tv_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.jobware.de_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.keybr.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.linkedin.com_0.indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.manager-magazin.de_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.manomano.de_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.mediamarkt.de_0.indexeddb.leveldb\000010.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.mi.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb\000274.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.notion.so_0.indexeddb.leveldb\000010.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.o2online.de_0.indexeddb.leveldb\000011.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.producthunt.com_0.indexeddb.leveldb\000023.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.radiorecord.ru_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.starlink.com_0.indexeddb.leveldb\000018.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.valantic.com_0.indexeddb.leveldb\000023.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.xnxx-ru.com_0.indexeddb.leveldb\000289.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000386.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_xnxx.health_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\gjjabgpgjpampikjhjpfhneeoapjbjaf\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\glcimepnljoholdmjchkloafkggfoijh\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\jnannpdmmiphnkpaooplhegabbghlplj\001197.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb\031955.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Platform Notifications\000045.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database\000124.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Session Storage\005478.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\000414.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB\051431.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\jnannpdmmiphnkpaooplhegabbghlplj\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\100\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\100\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\103\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\103\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\111\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\113\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\114\IndexedDB\indexeddb.leveldb\000031.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\120\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\149\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\150\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\150\IndexedDB\indexeddb.leveldb\000027.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\151\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\16\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\16\IndexedDB\indexeddb.leveldb\000111.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\220\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\234\IndexedDB\indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\278\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\280\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\282\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\285\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\294\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\294\IndexedDB\indexeddb.leveldb\000015.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\295\IndexedDB\indexeddb.leveldb\000035.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\296\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\307\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\307\IndexedDB\indexeddb.leveldb\000023.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\308\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\322\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\327\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\328\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\328\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\329\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\330\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\331\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\332\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\333\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\334\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\335\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\336\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\337\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\338\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\356\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\356\IndexedDB\indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\358\IndexedDB\indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\361\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\369\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\370\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\379\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\380\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\381\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\385\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\387\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\389\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\395\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\395\IndexedDB\indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\396\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\398\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\401\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\402\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\405\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\407\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\409\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\412\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\413\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\416\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\417\IndexedDB\indexeddb.leveldb\000007.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\430\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\437\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\440\IndexedDB\indexeddb.leveldb\000006.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\441\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\445\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\446\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\450\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\451\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\453\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\454\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\477\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\491\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\82\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\83\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\91\IndexedDB\indexeddb.leveldb\000031.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\92\IndexedDB\indexeddb.leveldb\000087.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\96\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\99\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\Default\WebStorage\99\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Google\Chrome\User Data\System Profile\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\Daemon\logs\daemon-3380.log
+- C:\Users\BOSS\AppData\Local\JetBrains\Daemon\logs\daemon.log
+- C:\Users\BOSS\AppData\Local\JetBrains\Daemon\logs\stderr.log
+- C:\Users\BOSS\AppData\Local\JetBrains\Daemon\logs\stdout.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eb0d-4bdd-ac3f-b62c5eaaafc7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eb69-464e-8afc-beeed499296b-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eb81-4e80-bda7-4224c2608034-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eb83-42ad-8c9e-a0f9b2d7fb45-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eb84-4300-b66b-bb3d99bf89d6-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ec1b-4f2b-af50-33519bc7c8d3-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ec87-48ae-ac4b-657ac5e47a2e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ed1a-439f-96d7-5cbfadcb055e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ed24-4703-a66e-b673906a5405-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ed71-46c0-b062-5fb0f14ef98f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ed82-4f95-9628-8f179641f86a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ed9b-4b5a-8e24-79d02310ba24-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\edb1-4baa-b966-47e16d37d2b8-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\edc2-463c-826f-237e1a6b3b04-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\edc2-4996-a574-e3427a95cb1d-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\edee-4253-8394-8c2e156dd00f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ee0f-4801-a832-dea280609e80-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ee0f-48e3-9c1d-d8070a8ae0b9-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ee5c-422a-a724-96e7e751a6fe-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ee8d-422b-aefe-8658af1dfa67-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eea9-42a9-b06a-55009f049c2e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eeb7-4f5d-a4d6-4fc7eff20506-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eec0-42c5-8bce-5288ed0a28c0-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eeca-43c8-9cb9-be5c7f30ff0a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eed1-49e3-82df-e2480ae16eb9-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\eef9-4114-9f09-469ab1e59db4-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ef53-44b9-8084-225cfc506817-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ef5c-4caa-bb0d-0fe9d34bf972-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\efa7-453f-a55d-929d1a70b428-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\efb4-4c28-a83b-e7af8b500c93-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\efe0-4efc-958b-705ce43ad25e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\efe6-47a6-8f82-91e568208bc7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\efe9-44ff-89fc-6cff5849590a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\effd-4da0-b196-6bcf31691bb7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f007-4f11-93e6-10621002fbad-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f021-4ef0-bddf-31c3fdf07881-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f02b-4aa8-b7be-b1c9d0b6d82e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f043-46f6-a029-04d260245397-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f050-4aad-986d-626a0ab26248-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f05b-4d4b-9e26-ae7bc4aeea12-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f06a-4fff-b8cf-743da6698cc5-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f070-4cfe-9e23-c02f9616ba61-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f0ce-4240-9120-cc4c761a529b-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f101-44fb-a6d7-699ee7d73d32-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f10d-4f19-b6ee-9368317f4976-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f133-4e29-b6d7-e45a1a34a589-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f166-44dc-b815-d6a2452ebe8c-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f16b-471a-9b74-62c3fcf4b715-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1b4-4b1d-a048-802ee086e1b2-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1b5-41c4-9e5e-3f440b32aa86-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1bc-46c6-8fc6-e3fb17dd86a9-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1c6-465f-a28b-0852bc344d99-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1f6-4a9f-8776-c741a886d79e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f1fc-421a-a168-fa14fe495dff-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f20b-44a1-aab1-6926ef667e61-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f232-40a7-b50e-68fc14a34083-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f273-4666-bd64-cc7f9d6d1708-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f27a-4d42-8328-939bd24ec6a6-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f2e5-41fd-b054-fb01075b5345-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f2f4-4a8f-9f8d-0469a5a688d0-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f31c-4e92-b4df-33df81cdeacc-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f321-49f8-a024-b1e889a88019-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f328-4e0c-9f54-5208785f104e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f330-4f99-8c69-12d933f36c1c-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f338-452a-8924-ca929dea1681-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f3d1-4dd5-a26c-53d30903435e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f3da-4699-8128-0eb3e36aedfd-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f3f1-4e0a-b3cb-bd9d5d804290-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f470-4ac9-8377-62157e643ae4-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f479-491f-a188-b6e3c7e722b9-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f486-4c47-865d-2e56c6620bb7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f4c9-4c9a-92cc-711891747264-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f4d8-4e99-9058-4280acb3999a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f4e2-480a-a537-2029e040ee96-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f591-403e-b378-8f5a21f55b9f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f593-4392-bbe7-a7e43640a7ab-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f5b5-4fb7-928c-40c97f348276-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f5d9-4bb8-8157-80998663d842-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f5e6-4328-8a05-61fe10b70303-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f5f2-4415-a59a-a18c45a0af1f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f600-4796-915c-39fdc2c12430-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f619-46d8-bb81-5d2ece9d1dae-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f670-4da8-82f1-c5e5be28e49f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f6be-41bc-ac5f-5ee8a4771348-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f70d-4512-98b5-8ef107c71cba-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f74b-45d1-a69e-338555a0144d-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f77f-41e3-9785-e1b846e72222-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f7aa-42bc-989d-cfb52084e811-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f7ab-4f91-8056-95f89b0336f8-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f7e4-47e1-825d-11bf87ad3637-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f834-48f9-9b49-b7e52e3d4a48-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f863-4654-9b27-5e5f60b269a0-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f881-443e-8332-222a0079418f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f8b4-4863-89e6-a3797fa0a481-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f8c9-4df6-be15-b30e40d28fa1-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f8f4-4b89-9ff4-1e1c275935f7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f94d-443e-a2bc-510ff567bb9d-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f954-445f-9e02-9701ea44790c-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f979-4dd0-8ed6-725517d4eb35-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\f9af-4655-a104-ec868d24a862-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fa24-4e43-bf08-af67ec623dc3-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fab6-4ab5-86a7-6085f3b8c87e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb4c-433f-9394-2d4fc3b9d653-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb4d-45a2-b419-7be91dcf439a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb50-43d4-818b-45952340ac5c-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb5b-4934-b9ce-91c8e0d990c2-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb95-431f-8638-2fea1e1f67b4-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fb98-4f6c-9dd7-cc316b32792d-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fbbe-45fc-bf4a-076569e12eff-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fbc3-4a5f-9b09-107f55cfb85f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fc10-4f67-b0ca-8aead51a91e5-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fc37-4d83-bb53-83c852be9d3d-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fc4b-49df-9658-d9763c80ea4e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fc5a-4031-90d6-d854359d0c61-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fc62-4d8f-8e38-85e65d2ae1c5-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fcc2-4f32-9718-30229f92927e-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fcd0-41f8-a4e8-b4cdbf95d3fc-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fce2-4d06-b7d4-42101a5a8b46-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fce7-43df-89c0-9d61857b2c33-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fd52-4569-9205-5e8c8b0ceeeb-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fd98-4b02-b5ad-3ae61517f9be-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdc6-4f28-8bbf-a8e6a1ef294a-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdcb-4c71-bbfe-df186781e4ac-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdd2-4f69-9f6b-621c8737bed7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdd7-4fb5-b9e8-9c160807911c-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdd9-49da-be36-901cc9cdc098-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fdf9-4b4d-bff8-0cc14c7b39fa-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fe1b-4236-a101-28791b76a591-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fe3f-4341-b9bc-80bcd865678b-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fe72-4d11-94ed-c86260b56068-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fe73-40dc-8bb8-61eb9d1b1f9f-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\fec5-48d2-9e0c-aa963fa9db05-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ff0f-457f-8f7f-131cfb6a6ec2-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ff7c-42c6-bfdc-1286ac8a7936-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ff8c-4e88-a857-35bfbca6e192-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ff96-47f2-ba7b-56b456be0363-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ffa1-4f2c-9764-de8adc2288e7-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ffab-44ce-8e84-c571c2520ec9-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ffc2-49d9-b865-181171d38bc0-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\event-log-data\logs\FUS\ffd2-4267-ac45-4db6d3c23b28-242.21829.153-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\jcef_cache\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\jcef_cache\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\jcef_cache\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.1.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.10.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.11.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.12.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.2.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.3.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.4.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.5.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.6.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.7.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.8.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.9.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\log\idea.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\tmp\statistics-uploader\idea_statistics_uploader.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2024.2\tmp\statistics-uploader\idea_statistics_uploader_events_v1.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\FUS\4cd5-4192-b1b0-6ea4b2d45422-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\ML\4f67-46a3-ac1a-f83d694c1ce9-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\MP\06f8-4687-90e5-12319d8a8579-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\MP\13b4-491f-bc73-040a4d0feb16-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\MP\4095-402f-8414-cd7908bbf0f1-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\MP\c222-4ae7-9a24-36a8881ebeef-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\event-log-data\logs\MP\cd89-4b02-98c8-9fa552ebed38-253.32098.74-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\GCM Store\Encryption\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\jcef_cache\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\idea.1.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\idea.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\idea_updater.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\idea_updater_error.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\jcef_chromium_15708.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\jcef_chromium_18504.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\jcef_chromium_7160.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\restarter.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2025.3\log\acp\acp.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\database-log\database.0.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\event-log-data\logs\FUS\7a61-4444-967b-a56b83605034-261.24374.152-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\event-log-data\logs\FUS\ffb6-46b8-8058-4345ae3e164d-261.24374.152-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\event-log-data\logs\ML\a5b7-427e-a647-329acef6e1d8-261.24374.152-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\event-log-data\logs\MP\1f45-445a-adc4-c4ee78a3c600-261.24374.152-release.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\GCM Store\Encryption\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Local Storage\leveldb\000059.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Session Storage\000004.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\jcef_cache\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.1.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.2.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.3.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.4.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.5.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea_updater.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\idea_updater_error.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_10400.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_10472.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11008.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11440.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11492.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11520.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11552.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11820.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_11868.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_12268.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_12640.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_12652.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_13272.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_13300.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_13328.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_13380.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_13604.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_14056.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_14224.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_15132.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_15364.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_15764.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_16348.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_16380.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_16732.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_16956.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_17320.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_18068.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_21252.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_22720.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_2548.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_2844.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_3600.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_3688.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_4068.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_4180.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_6448.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_6472.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_7044.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_7304.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_7740.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_7864.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_8008.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_8152.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_8292.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_8516.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_8872.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_9692.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_9896.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\jcef_chromium_9948.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\restarter.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\telephony.log
+- C:\Users\BOSS\AppData\Local\JetBrains\PyCharm2026.1\log\acp\acp.log
+- C:\Users\BOSS\AppData\Local\Joxi\joxi.log
+- C:\Users\BOSS\AppData\Local\Joxi\proxy_connect.log
+- C:\Users\BOSS\AppData\Local\Microsoft\CLR_v4.0\ngen.log
+- C:\Users\BOSS\AppData\Local\Microsoft\CLR_v4.0_32\ngen.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\AdPlatform\auto_show_data.db\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Asset Store\assets.db\000033.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\data_reduction_proxy_leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\EdgeCoupons\coupons_data.db\000201.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\EdgePushStorageWithWinRt\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\EntityExtraction\EntityExtractionAssetStore.db\000004.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\File System\000\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\File System\001\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\File System\Origins\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_app.zoom.us_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_boosty.to_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_claude.ai_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_github.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_live.vkvideo.ru_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_ntp.msn.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_us05web.zoom.us_0.indexeddb.leveldb\000012.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_wargaming.net_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_www.msn.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\cajkghbacphcjgemgmmachjcgamkcacd\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\jdiccldimpdaibmpdkjnbmckianbfold\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Local Storage\leveldb\000056.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Platform Notifications\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\PriceComparison\PriceComparisonAssetStore.db\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Session Storage\000010.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Storage\ext\ihmafllikibpmigkcoadcmckbfhibefp\def\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Storage\ext\ihmafllikibpmigkcoadcmckbfhibefp\def\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Sync Data\LevelDB\000036.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Sync Data\Logs\cv_debug.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Sync Data\Logs\sync_diagnostic.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\Sync Extension Settings\cajkghbacphcjgemgmmachjcgamkcacd\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\WebStorage\10\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\WebStorage\13\IndexedDB\indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\WebStorage\14\IndexedDB\indexeddb.leveldb\000050.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Edge\User Data\Default\WebStorage\7\FileSystem\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Internet Explorer\ie4uinit-ClearIconCache.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Internet Explorer\ie4uinit-UserConfig.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edbtmp.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\IndexedDB\https_pivot.claude.ai_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Office\16.0\Wef\webview2\63a6956bd5002f0d_LiveId\2\0\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install-PerUser_2026-06-16_085531_10148-3056.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-11_085413_16968-18324.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-12_063759_10084-1952.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-12_064426_3728-7368.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-14_120349_11372-9192.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-14_121140_13032-13044.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-15_063910_3920-3612.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-15_064029_5956-14172.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-16_052827_15772-17168.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-16_085512_16536-7636.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-16_085908_13664-11864.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-17_053404_16108-10496.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-17_090223_8972-6680.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-18_061522_11904-1712.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\Install_2026-06-18_111554_14784-14540.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-11_072748_15004-15840.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-11_085404_14132-16448.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-12_063755_4348-2852.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-12_072748_12808-12236.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-14_120330_7848-8804.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-14_120331_15188-15124.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-15_063901_15464-14768.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-15_072748_9476-16688.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-16_072749_6780-3192.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-16_085357_8312-15188.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-16_095907_11364-4680.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-17_090216_12260-7492.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-17_095907_8944-15064.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-18_095908_13136-12972.log
+- C:\Users\BOSS\AppData\Local\Microsoft\OneDrive\setup\logs\StandaloneUpdate_2026-06-18_111345_14116-6200.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Windows\WebCache\V01.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Windows\WebCache\V0100184.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Windows\WebCache\V0100185.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Windows\WebCache\V0100186.log
+- C:\Users\BOSS\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_35_38_959Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_35_46_351Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_35_46_392Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_35_51_027Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_35_54_882Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_39_44_804Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-19T16_41_02_311Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-05-20T13_38_47_516Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-06-03T10_41_22_472Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-06-03T10_41_26_049Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\npm-cache\_logs\2026-06-18T18_35_32_448Z-debug-0.log
+- C:\Users\BOSS\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\wa_stats_v2.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\IndexedDB\https_claude.ai_0.indexeddb.leveldb\000004.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\Local Storage\leveldb\001023.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\logs\claude.ai-web.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\logs\cowork_vm_node.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\logs\main.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\logs\ssh.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\logs\unknown-window.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\Partitions\cowork-file-preview\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\Session Storage\000004.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb00001.log
+- C:\Users\BOSS\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edbtmp.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0\LocalCache\Roaming\ChatGPT\IndexedDB\https_chatgpt.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0\LocalCache\Roaming\ChatGPT\Local Storage\leveldb\000315.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0\LocalCache\Roaming\ChatGPT\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.Codex_2p2nqsd0c76g0\LocalCache\Local\Codex\Logs\2026\04\14\codex-desktop-c2797441-3b77-4d5f-97cc-06a019ed3a54-15888-t0-i1-160906-0.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.Codex_2p2nqsd0c76g0\LocalCache\Local\Codex\Logs\2026\04\14\codex-desktop-c2797441-3b77-4d5f-97cc-06a019ed3a54-15888-t1-i1-160921-0.log
+- C:\Users\BOSS\AppData\Local\Packages\OpenAI.Codex_2p2nqsd0c76g0\LocalCache\Roaming\Codex\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\GCM Store\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\GCM Store\Encryption\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Local\PulseSoftware\PulseBrowser\User Data\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Local\SquirrelTemp\SquirrelSetup.log
+- C:\Users\BOSS\AppData\Local\Temp\chromium_installer.log
+- C:\Users\BOSS\AppData\Local\Temp\ClaudeSetup.log
+- C:\Users\BOSS\AppData\Local\Temp\cv_debug.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618191046.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618191046_00_setup.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618191046_00_setup_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618191046_result_Success.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618220929.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618220929_result_Success.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618221046.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618221046_00_setup.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618221046_00_setup_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_BackgroundDownload_20260618221046_result_Success.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_bootstrapper_20260608093945.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_installer_20260608094055.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_installer_elevated_20260608094150.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_installer_elevated_20260608100414.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_MofCompiler_20260608094326.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094107.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094107_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_000_TestMSI.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_002_Microsoft.VisualStudio.Branding.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_003_Microsoft.VisualStudio.MinShell.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_004_Microsoft.VisualStudio.CoreDotNet.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_005_Microsoft.VisualStudio.MinShell.Auto.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_006_Microsoft.VisualStudio.UIInternal.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_007_Microsoft.VisualStudio.UIInternal.Guide.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_008_Microsoft.VisualStudio.MinShell.Resources.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_009_Microsoft.VisualStudio.Devenv.Config.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_010_Microsoft.VisualStudio.NativeImageSupport.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_011_Microsoft.VisualStudio.WPF.Internal.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_012_Microsoft.VisualStudio.MinShell.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_013_Microsoft.VisualStudio.Platform.Editor.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_014_Microsoft.VisualStudio.ExtensionManager.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_015_Microsoft.VisualStudio.ExtensionManager.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_016_Microsoft.VisualStudio.Initializer.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_017_Microsoft.VisualStudio.MefHosting.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_018_Microsoft.VisualStudio.Platform.Terminal.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_019_Microsoft.VisualStudio.Platform.Terminal.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_020_Microsoft.VisualStudio.LanguageServer.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_021_Microsoft.VisualStudio.Extensibility.Container.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_022_Microsoft.VisualStudio.Setup.Configuration.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_023_Microsoft.VisualStudio.Setup.Configuration.Interop.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_024_Microsoft.VisualStudio.Setup.WMIProvider.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_025_Microsoft.VisualStudio.WhatsNew.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_026_Microsoft.Net.8.0.Runtime.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_027_Microsoft.Net.8.0.WindowsDesktop.Runtime.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_028_Microsoft.Net.10.0.Runtime.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_029_Microsoft.Net.10.0.WindowsDesktop.Runtime.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_030_Microsoft.VisualStudio.VsWebProtocolSelector.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_031_Microsoft.VisualStudio.GitHubProtocolHandler.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_032_devenv_groupconfig.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_033_microsoft.identitymodel.abstractions_8.15.0_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_034_Microsoft.VisualStudio.IdentityDependencies.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_035_Microsoft.VisualStudio.Licensing.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_036_Microsoft.VisualStudio.Copilot.Contracts.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_037_Microsoft.VisualStudio.OpenTelemetry.Core.netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_038_microsoft.identitymodel.jsonwebtokens_8.15.0_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_039_microsoft.bcl.timeprovider_8.0.1_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_040_microsoft.bcl.asyncinterfaces_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_041_system.threading.tasks.extensions_4.6.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_042_system.runtime.compilerservices.unsafe_6.1.2_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_043_microsoft.identitymodel.tokens_8.15.0_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_044_microsoft.extensions.logging.abstractions_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_045_microsoft.extensions.dependencyinjection.abstractions_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_046_system.buffers_4.6.1_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_047_system.diagnostics.diagnosticsource_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_048_system.memory_4.6.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_049_system.numerics.vectors_4.6.1_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_050_microsoft.identitymodel.logging_8.15.0_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_051_system.text.json_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_052_system.io.pipelines_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_053_system.text.encodings.web_10.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_054_microsoft.visualstudio.remotecontrol_16.3.52_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_055_microsoft.visualstudio.utilities.internal_16.3.90_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_056_newtonsoft.json_13.0.3_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_057_system.identitymodel.tokens.jwt_8.15.0_netfx.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_058_Microsoft.VisualStudio.MinShell.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_059_Microsoft.VisualStudio.Community.ProductArch.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_060_Microsoft.VisualStudio.Platform.CallHierarchy.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_061_Microsoft.MSHtml.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_062_Microsoft.VisualStudio.Diagnostics.AspNetHelper.Standard.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_063_Microsoft.VisualStudio.Diagnostics.AspNetHelper.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_064_Microsoft.VisualStudio.WebSiteProject.DTE.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_065_Microsoft.VisualStudio.Community.ProductArch.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_066_Microsoft.VisualStudio.Net.Eula.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_067_Microsoft.VisualStudio.Community.ProductArch.Resources.NeutralExtra.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_068_Microsoft.VisualStudio.Community.ProductArch.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_069_Microsoft.VisualStudio.Community.CSharp.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_070_Microsoft.VisualStudio.Community.CSharp.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_071_Microsoft.VisualStudio.Community.VB.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_072_Microsoft.VisualStudio.Community.VB.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_073_Microsoft.IntelliTrace.CollectorCab.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_074_Microsoft.DiaSymReader.PortablePdb.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_075_Microsoft.VisualStudio.Community.ProductArch.NeutralExtra.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_076_Microsoft.VisualStudio.Community.ProductArch.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_077_Microsoft.VisualStudio.Community.ProductArch.TargetedExtra.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_078_Microsoft.VisualStudio.Community.CSharp.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_079_Microsoft.VisualStudio.Community.CSharp.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_080_Microsoft.VisualStudio.Community.VB.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_081_Microsoft.VisualStudio.Community.VB.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_082_Microsoft.VisualStudio.GraphProvider.Auto.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_083_Microsoft.VisualStudio.GraphProvider.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_084_Microsoft.VisualStudio.GraphModel.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_085_Microsoft.VisualStudio.PerformanceProvider.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_086_Microsoft.VisualStudio.VirtualTree.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_087_Microsoft.VisualCpp.Tools.Common.Utils.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_088_Microsoft.VisualCpp.Tools.Common.Utils.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_089_Microsoft.VisualStudio.Cache.Service.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_090_Microsoft.VisualStudio.VC.Ide.Common.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_091_Microsoft.VisualStudio.VC.MSVCDis.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_092_Microsoft.VisualStudio.VC.Ide.Common.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_093_Microsoft.VisualStudio.VC.Ide.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_094_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_095_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_096_Microsoft.VisualStudio.VC.Ide.Debugger.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_097_Microsoft.VisualStudio.Debugger.Remote.DiagnosticsHub.Client.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_098_Microsoft.VisualStudio.Debugger.Remote.DiagnosticsHub.Client.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_099_Microsoft.VisualStudio.Debugger.Package.DiagHub.Client.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_100_Microsoft.VisualStudio.PerfLib.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_101_Microsoft.VisualStudio.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_102_Microsoft.VisualStudio.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_103_Microsoft.VisualStudio.Debugger.Concord.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_104_Microsoft.IntelliTrace.DiagnosticsHub.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_105_Microsoft.VisualStudio.Editors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_106_Microsoft.VisualStudio.AzureSDK.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_107_Microsoft.VisualStudio.DIA.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_108_Microsoft.VisualStudio.Debugger.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_109_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_110_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_111_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_112_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_113_Microsoft.VisualStudio.Debugger.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_114_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_115_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_116_Microsoft.VisualStudio.Debugger.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_117_Microsoft.VisualStudio.Debugger.TargetComposition.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_118_Microsoft.VisualStudio.Debugger.TargetComposition.Remote.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_119_Microsoft.VisualStudio.Debugger.TargetComposition.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_120_Microsoft.VisualStudio.Debugger.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_121_Microsoft.VisualStudio.Debugger.Concord.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_122_Microsoft.VisualStudio.Debugger.Concord.Managed.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_123_Microsoft.CodeAnalysis.VisualStudio.ServiceHub.Setup.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_124_Microsoft.CodeAnalysis.VisualStudio.Setup.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_125_Microsoft.CodeAnalysis.ExpressionEvaluator.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_126_Microsoft.DiaSymReader.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_127_Microsoft.VisualStudio.Debugger.Managed.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_128_Microsoft.VisualStudio.Debugger.Parallel.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_129_Microsoft.VisualStudio.Debugger.Parallel.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_130_Microsoft.VisualStudio.Debugger.CollectionAgents.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_131_Microsoft.WebTools.DotNet.Core.ItemTemplates.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_132_Microsoft.WebTools.Shared.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_133_Microsoft.VisualStudio.Web.Azure.Common.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_134_Microsoft.VisualStudio.Debugger.AzureAttach.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_135_Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_136_Microsoft.VisualStudio.Debugger.BrokeredServices.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_137_Microsoft.VisualStudio.Debugger.VsDbgExe.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_138_Microsoft.VisualStudio.Debugger.VsDbgExe.Concord.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_139_Microsoft.VisualStudio.Debugger.VsDbgExe.VS.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_140_Microsoft.VisualStudio.Debugger.VsDbgExe.VS.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_141_Microsoft.VisualStudio.Connected.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_142_Microsoft.VisualStudio.Connected.Auto.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_143_SQLitePCLRaw.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_144_SQLitePCLRaw.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_145_Microsoft.Developer.IdentityServiceGS.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_146_Microsoft.VisualStudio.Identity.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_147_Microsoft.VisualStudio.Connected.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_148_Microsoft.VisualStudio.Platform.NavigateTo.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_149_Microsoft.VisualStudio.CoreEditor.UserProfiles.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_150_Microsoft.VisualStudio.CoreEditor.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_151_Microsoft.VisualStudio.Devenv.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_152_Microsoft.VisualStudio.Devenv.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_153_Microsoft.VisualStudio.ErrorList.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_154_Microsoft.VisualStudio.Finalizer.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_155_Microsoft.VisualStudio.Log.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_156_Microsoft.VisualStudio.Log.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_157_Microsoft.VisualStudio.Log.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_158_CoreEditorFonts.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_159_Microsoft.VisualStudio.NgenRunner.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_160_Microsoft.VisualStudio.MinShell.Interop.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_161_Microsoft.VisualStudio.MinShell.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_162_Microsoft.VisualStudio.MinShell.Shared.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_163_Microsoft.VisualStudio.MinShell.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_164_Microsoft.VisualStudio.FileHandler.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_165_Microsoft.VisualStudio.FileHandler.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_166_Microsoft.VisualStudio.OpenFolder.VSIX.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_167_Microsoft.VisualStudio.ProjectServices.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_168_Microsoft.ServiceHub.amd64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_169_Microsoft.ServiceHub.Managed.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_170_Microsoft.ServiceHub.Node.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_171_Microsoft.VisualStudio.TeamExplorer.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_172_Microsoft.VisualStudio.Platform.Markdown.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_173_Microsoft.VisualStudio.TextMateGrammars.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_174_Microsoft.Build.UnGAC.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_175_Microsoft.VisualStudio.NuGet.Core.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_176_Microsoft.DataAI.NuGetRecommender.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_177_Microsoft.Build.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_178_Microsoft.Build.FileTracker.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_179_Microsoft.Build.Dependencies.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_180_Microsoft.VisualStudio.VC.DevCmd.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_181_Microsoft.VisualStudio.VC.DevCmd.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_182_Microsoft.VisualStudio.VsDevCmd.Core.DotNet.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_183_Microsoft.VisualStudio.VsDevCmd.Core.WinSdk.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_184_Microsoft.VisualStudio.VsDevCmd.Ext.NetFxSdk.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_185_Microsoft.VisualCpp.Tools.Common.UtilsPrereq.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_186_Microsoft.VisualStudio.ScriptedHost.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_187_Microsoft.VisualStudio.ScriptedHost.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_188_Microsoft.DiagnosticsHub.Collection.Service.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_189_Microsoft.DiagnosticsHub.Collection.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_190_Microsoft.DiagnosticsHub.Runtime.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_191_Microsoft.DiagnosticsHub.Runtime.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_192_Microsoft.WebTools.Languages.Shared.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_193_Microsoft.VisualStudio.WebToolsExtensions.Json.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_194_Microsoft.VisualStudio.Languages.Json.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_195_Microsoft.VisualStudio.Languages.Json.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_196_Microsoft.VisualStudio.MinShell.Interop.Shared.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_197_Microsoft.VisualStudio.MinShell.Interop.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_198_Microsoft.VisualStudio.Devenv.Shared.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_199_Microsoft.VisualStudio.Devenv.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_200_Microsoft.VisualStudio.Community.Shared.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_201_Microsoft.VisualStudio.Community.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_202_Microsoft.VisualStudio.Community.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_203_Microsoft.VisualStudio.Community.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_204_Microsoft.VisualStudio.Community.x86.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_205_Microsoft.VisualStudio.ProjectSystem.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_206_Microsoft.VisualStudio.ProjectSystem.Query.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_207_Microsoft.VisualStudio.LiveShareApi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_208_Microsoft.VisualStudio.ProjectSystem.Full.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_209_Microsoft.VisualStudio.ClientDiagnostics.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_210_Microsoft.VisualStudio.ClientDiagnostics.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_211_Microsoft.VisualStudio.ClientDiagnostics.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_212_Microsoft.VisualStudio.AppResponsiveness.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_213_Microsoft.VisualStudio.AppResponsiveness.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_214_Microsoft.VisualStudio.AppResponsiveness.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_215_Microsoft.VisualStudio.TestTools.TeamFoundationClient.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_216_Microsoft.VisualStudio.CodeSense.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_217_Microsoft.VisualStudio.Community.VB.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_218_Microsoft.VisualStudio.Community.VB.x86.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_219_Microsoft.VisualStudio.Package.NodeJs.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_220_Microsoft.CodeAnalysis.Compilers.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_221_Microsoft.VisualStudio.StaticAnalysis.auxil.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_222_Microsoft.VisualStudio.StaticAnalysis.auxil.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_223_Microsoft.VisualStudio.StaticAnalysis.FxCop.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_224_Microsoft.VisualStudio.StaticAnalysis.FxCop.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_225_Microsoft.VisualStudio.StaticAnalysis.IDE.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_226_Microsoft.VisualStudio.StaticAnalysis.IDE.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_227_Microsoft.VisualCpp.Servicing.Redist.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_228_Microsoft.DiaSymReader.Native.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_229_Microsoft.VisualStudio.InteractiveWindow.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_230_Microsoft.VisualStudio.TestTools.CodeCoverage.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_231_Microsoft.VisualStudio.TestTools.CodeCoverage.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_232_Microsoft.CodeCoverage.Console.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_233_Microsoft.VisualStudio.InstrumentationEngine.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_234_Microsoft.VisualStudio.TestTools.DynamicCodeCoverage.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_235_Microsoft.IntelliTrace.ProfilerProxy.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_236_Microsoft.IntelliTrace.ProfilerProxy.Msi.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_237_Microsoft.IntelliTrace.Core.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_238_Microsoft.IntelliTrace.Core.Concord.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_239_Microsoft.IntelliTrace.Core.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_240_Microsoft.VisualStudio.TestTools.Profiler.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_241_Microsoft.DiagnosticsHub.Collection.ExternalDependencies.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_242_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_243_SQLiteCore.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_244_SQLiteCore.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_245_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_246_Microsoft.Icecap.Collection.Msi.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_247_Microsoft.Icecap.Collection.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_248_Microsoft.Icecap.Analysis.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_249_Microsoft.Icecap.Analysis.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_250_Microsoft.Icecap.Analysis.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_251_Microsoft.Icecap.Analysis.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_252_Microsoft.VisualStudio.TeamExplorer.MinGit.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_253_Microsoft.DiagnosticsHub.CpuSampling.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_254_Microsoft.DiagnosticsHub.CpuSampling.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_255_Microsoft.DiagnosticsHub.Instrumentation.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_256_Microsoft.DiagnosticsHub.Instrumentation.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_257_Microsoft.DiagnosticsHub.DotNetObjectAlloc.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_258_Microsoft.DiagnosticsHub.DotNetObjectAlloc.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_259_Microsoft.DiagnosticsHub.DatabaseTool.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_260_Microsoft.DiagnosticsHub.DatabaseTool.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_261_Microsoft.DiagnosticsHub.FileIOTool.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_262_Microsoft.DiagnosticsHub.FileIOTool.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_263_Microsoft.DiagnosticsHub.EventsViewerTool.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_264_Microsoft.DiagnosticsHub.EventsViewerTool.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_265_Microsoft.DiagnosticsHub.DotNetAsync.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_266_Microsoft.DiagnosticsHub.DotNetAsync.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_267_Microsoft.DiagnosticsHub.DotNetCountersTool.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_268_Microsoft.DiagnosticsHub.DotNetCountersTool.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_269_Microsoft.DiagnosticsHub.BenchmarkDotNet.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_270_Microsoft.DiagnosticsHub.BenchmarkDotNet.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_271_Microsoft.DiagnosticsHub.UserMarks.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_272_Microsoft.DiagnosticsHub.Tools.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_273_Microsoft.VisualStudio.TestTools.TestPlatform.IDE.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_274_Microsoft.VisualStudio.TestTools.TestPlatform.V1.CLI.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_275_Microsoft.VisualStudio.TestTools.TestWIExtension.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_276_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Agent.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_277_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_278_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_279_Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_280_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Common.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_281_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Professional.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_282_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_283_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_284_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_285_Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Common.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_286_Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Msi.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_287_Microsoft.VisualStudio.Copilot.Testing.UI.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_288_Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_289_Microsoft.VisualStudio.IntelliCode.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_290_Microsoft.VisualStudio.IntelliCode.CSharp.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_291_VisualStudio.GitHub.Copilot.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_292_Microsoft.VisualStudio.Copilot.LogViewerExtension.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_293_Microsoft.VisualStudio.Copilot.Cli.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_294_Microsoft.VisualStudio.Copilot.Cli.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_295_Microsoft.PythonTools.Core.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_296_Microsoft.PythonTools.Core.Vsix.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_297_Microsoft.PythonTools.Core.Templates.Vsix.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_298_Microsoft.PythonTools.Profiling.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_299_Microsoft.PythonTools.Profiling.Vsix.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_300_Microsoft.CookiecutterTools.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_301_Microsoft.CookiecutterTools.Vsix.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_302_Microsoft.VisualStudio.LiveShare.VSCore.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_303_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_304_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_305_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608094158_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100125.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100125_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100244.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100244_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_000_TestMSI.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_001_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_002_Microsoft.VisualStudio.Branding.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_003_Microsoft.VisualStudio.Branding.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_004_Microsoft.VisualStudio.MinShell.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_005_Microsoft.VisualStudio.MinShell.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_006_Microsoft.VisualStudio.CoreDotNet.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_007_Microsoft.VisualStudio.CoreDotNet.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_008_Microsoft.VisualStudio.UIInternal.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_009_Microsoft.VisualStudio.UIInternal.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_010_Microsoft.VisualStudio.MinShell.Resources.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_011_Microsoft.VisualStudio.MinShell.Resources.x64.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_012_Microsoft.VisualStudio.ExtensionManager.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_013_Microsoft.VisualStudio.ExtensionManager.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_014_Microsoft.VisualStudio.MefHosting.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_015_Microsoft.VisualStudio.MefHosting.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_016_Microsoft.VisualStudio.Platform.Terminal.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_017_Microsoft.VisualStudio.Platform.Terminal.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_018_Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_019_Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_020_Microsoft.VisualStudio.Diagnostics.AspNetHelper.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_021_Microsoft.VisualStudio.Diagnostics.AspNetHelper.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_022_Microsoft.VisualStudio.Community.ProductArch.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_023_Microsoft.VisualStudio.Community.ProductArch.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_024_Microsoft.VisualStudio.Net.Eula.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_025_Microsoft.VisualStudio.Net.Eula.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_026_Microsoft.VisualStudio.Community.ProductArch.Resources.NeutralExtra.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_027_Microsoft.VisualStudio.Community.ProductArch.Resources.NeutralExtra.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_028_Microsoft.VisualStudio.Community.ProductArch.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_029_Microsoft.VisualStudio.Community.ProductArch.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_030_Microsoft.VisualStudio.Community.CSharp.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_031_Microsoft.VisualStudio.Community.CSharp.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_032_Microsoft.VisualStudio.Community.CSharp.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_033_Microsoft.VisualStudio.Community.CSharp.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_034_Microsoft.VisualStudio.Community.VB.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_035_Microsoft.VisualStudio.Community.VB.Resources.Neutral.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_036_Microsoft.VisualStudio.Community.VB.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_037_Microsoft.VisualStudio.Community.VB.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_038_Microsoft.VisualStudio.GraphProvider.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_039_Microsoft.VisualStudio.GraphProvider.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_040_Microsoft.VisualStudio.GraphProvider.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_041_Microsoft.VisualStudio.GraphProvider.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_042_Microsoft.VisualStudio.GraphModel.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_043_Microsoft.VisualStudio.GraphModel.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_044_Microsoft.VisualStudio.VirtualTree.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_045_Microsoft.VisualStudio.VirtualTree.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_046_Microsoft.VisualCpp.Tools.Common.Utils.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_047_Microsoft.VisualCpp.Tools.Common.Utils.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_048_Microsoft.VisualStudio.VC.Ide.Common.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_049_Microsoft.VisualStudio.VC.Ide.Common.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_050_Microsoft.VisualStudio.VC.Ide.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_051_Microsoft.VisualStudio.VC.Ide.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_052_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_053_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_054_Microsoft.VisualStudio.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_055_Microsoft.VisualStudio.Debugger.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_056_Microsoft.VisualStudio.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_057_Microsoft.VisualStudio.Debugger.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_058_Microsoft.IntelliTrace.DiagnosticsHub.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_059_Microsoft.IntelliTrace.DiagnosticsHub.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_060_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_061_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_062_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_063_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_064_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_065_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_066_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_067_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_068_Microsoft.VisualStudio.Debugger.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_069_Microsoft.VisualStudio.Debugger.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_070_Microsoft.VisualStudio.Debugger.Concord.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_071_Microsoft.VisualStudio.Debugger.Concord.Managed.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_072_Microsoft.VisualStudio.Debugger.Parallel.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_073_Microsoft.VisualStudio.Debugger.Parallel.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_074_Microsoft.VisualStudio.Debugger.AzureAttach.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_075_Microsoft.VisualStudio.Debugger.AzureAttach.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_076_Microsoft.VisualStudio.Web.Azure.Common.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_077_Microsoft.VisualStudio.Web.Azure.Common.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_078_Microsoft.WebTools.DotNet.Core.ItemTemplates.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_079_Microsoft.WebTools.DotNet.Core.ItemTemplates.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_080_Microsoft.WebTools.Shared.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_081_Microsoft.WebTools.Shared.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_082_Microsoft.VisualStudio.Debugger.VsDbgExe.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_083_Microsoft.VisualStudio.Debugger.VsDbgExe.Concord.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_084_Microsoft.VisualStudio.Debugger.VsDbgExe.VS.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_085_Microsoft.VisualStudio.Debugger.VsDbgExe.VS.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_086_Microsoft.VisualStudio.Connected.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_087_Microsoft.VisualStudio.Connected.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_088_Microsoft.VisualStudio.Connected.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_089_Microsoft.VisualStudio.Connected.Auto.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_090_Microsoft.VisualStudio.Devenv.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_091_Microsoft.VisualStudio.Devenv.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_092_Microsoft.VisualStudio.Log.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_093_Microsoft.VisualStudio.Log.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_094_Microsoft.VisualStudio.NgenRunner.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_095_Microsoft.VisualStudio.NgenRunner.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_096_Microsoft.VisualStudio.MinShell.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_097_Microsoft.VisualStudio.MinShell.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_098_Microsoft.VisualStudio.VC.DevCmd.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_099_Microsoft.VisualStudio.VC.DevCmd.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_100_Microsoft.VisualStudio.ScriptedHost.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_101_Microsoft.VisualStudio.ScriptedHost.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_102_Microsoft.DiagnosticsHub.Runtime.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_103_Microsoft.DiagnosticsHub.Runtime.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_104_Microsoft.WebTools.Languages.Shared.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_105_Microsoft.WebTools.Languages.Shared.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_106_Microsoft.VisualStudio.WebToolsExtensions.Json.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_107_Microsoft.VisualStudio.WebToolsExtensions.Json.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_108_Microsoft.VisualStudio.Languages.Json.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_109_Microsoft.VisualStudio.Languages.Json.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_110_Microsoft.VisualStudio.Community.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_111_Microsoft.VisualStudio.Community.Msi.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_112_Microsoft.VisualStudio.ClientDiagnostics.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_113_Microsoft.VisualStudio.ClientDiagnostics.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_114_Microsoft.VisualStudio.AppResponsiveness.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_115_Microsoft.VisualStudio.AppResponsiveness.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_116_Microsoft.VisualStudio.TestTools.TeamFoundationClient.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_117_Microsoft.VisualStudio.TestTools.TeamFoundationClient.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_118_Microsoft.VisualStudio.CodeSense.Community.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_119_Microsoft.VisualStudio.CodeSense.Community.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_120_Microsoft.VisualStudio.StaticAnalysis.auxil.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_121_Microsoft.VisualStudio.StaticAnalysis.auxil.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_122_Microsoft.VisualStudio.StaticAnalysis.FxCop.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_123_Microsoft.VisualStudio.StaticAnalysis.FxCop.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_124_Microsoft.VisualStudio.StaticAnalysis.IDE.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_125_Microsoft.VisualStudio.StaticAnalysis.IDE.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_126_Microsoft.VisualStudio.TestTools.CodeCoverage.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_127_Microsoft.VisualStudio.TestTools.CodeCoverage.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_128_Microsoft.VisualStudio.TestTools.DCC.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_129_Microsoft.VisualStudio.TestTools.DCC.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_130_Microsoft.IntelliTrace.Core.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_131_Microsoft.IntelliTrace.Core.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_132_Microsoft.IntelliTrace.Core.Targeted.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_133_Microsoft.IntelliTrace.Core.Targeted.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_134_Microsoft.Icecap.Analysis.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_135_Microsoft.Icecap.Analysis.Resources.Targeted.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_136_Microsoft.Icecap.Analysis.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_137_Microsoft.Icecap.Analysis.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_138_Microsoft.DiagnosticsHub.CpuSampling.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_139_Microsoft.DiagnosticsHub.CpuSampling.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_140_Microsoft.DiagnosticsHub.Instrumentation.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_141_Microsoft.DiagnosticsHub.Instrumentation.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_142_Microsoft.DiagnosticsHub.DotNetObjectAlloc.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_143_Microsoft.DiagnosticsHub.DotNetObjectAlloc.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_144_Microsoft.DiagnosticsHub.DatabaseTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_145_Microsoft.DiagnosticsHub.DatabaseTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_146_Microsoft.DiagnosticsHub.FileIOTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_147_Microsoft.DiagnosticsHub.FileIOTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_148_Microsoft.DiagnosticsHub.EventsViewerTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_149_Microsoft.DiagnosticsHub.EventsViewerTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_150_Microsoft.DiagnosticsHub.DotNetAsync.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_151_Microsoft.DiagnosticsHub.DotNetAsync.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_152_Microsoft.DiagnosticsHub.DotNetCountersTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_153_Microsoft.DiagnosticsHub.DotNetCountersTool.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_154_Microsoft.DiagnosticsHub.BenchmarkDotNet.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_155_Microsoft.DiagnosticsHub.BenchmarkDotNet.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_156_Microsoft.DiagnosticsHub.UserMarks.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_157_Microsoft.DiagnosticsHub.UserMarks.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_158_Microsoft.VisualStudio.TestTools.TP.V1.CLI.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_159_Microsoft.VisualStudio.TestTools.TP.V1.CLI.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_160_Microsoft.VisualStudio.TestTools.TestWIExtension.Res.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_161_Microsoft.VisualStudio.TestTools.TestWIExtension.Res.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_162_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_163_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_164_Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_165_Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_166_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_167_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_168_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_169_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_170_Microsoft.PythonTools.Core.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_171_Microsoft.PythonTools.Core.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_172_Microsoft.PythonTools.Profiling.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_173_Microsoft.PythonTools.Profiling.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_174_Microsoft.CookiecutterTools.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_175_Microsoft.CookiecutterTools.Vsix.Resources.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_176_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_177_Microsoft.VisualStudio.Product.Community.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608100425_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608101153.log
+- C:\Users\BOSS\AppData\Local\Temp\dd_setup_20260608101153_errors.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260423-1438.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-1331.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-1335.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-1336.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-1504.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-1804.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260502-2231.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-0304.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-0751.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-0806.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-1247.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-1309.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-1823.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260503-1835.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260508-1905.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260515-2113.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260602-0825.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260607-1406.log
+- C:\Users\BOSS\AppData\Local\Temp\DESKTOP-95JBM09-20260614-1416.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1776323087917814400_A594B7E9-F774-4E51-90E2-B5BB04EE2F2F.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1776323088011153600_823E7D21-464E-4594-960C-38397624E9C3.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1776755310811280700_EB3F3DFB-2005-4817-BD5E-556DB3AFA0ED.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1779192721020577800_B9207B7C-DD50-4BF2-9F8F-9EA24C1F7EA6.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1781683231178808400_ED6E8EA7-4DE1-448B-A7A4-B6B5BCD7A79E.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1781685283696611800_2545B2BA-8B63-4843-ADD7-952C5B764173.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Primary1781685283697831200_2545B2BA-8B63-4843-ADD7-952C5B764173.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1776323087965688200_A594B7E9-F774-4E51-90E2-B5BB04EE2F2F.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1776323088018427700_823E7D21-464E-4594-960C-38397624E9C3.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1776755310829453600_EB3F3DFB-2005-4817-BD5E-556DB3AFA0ED.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1779192721069555900_B9207B7C-DD50-4BF2-9F8F-9EA24C1F7EA6.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1781683231184760100_ED6E8EA7-4DE1-448B-A7A4-B6B5BCD7A79E.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1781685283703621000_2545B2BA-8B63-4843-ADD7-952C5B764173.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\EXCEL\Additional\Additional1781685283704847100_2545B2BA-8B63-4843-ADD7-952C5B764173.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\POWERPNT\Primary1781209380747190900_BEB49092-9920-4072-9B2F-1E521693C2A0.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\POWERPNT\Primary1781209380750064900_BEB49092-9920-4072-9B2F-1E521693C2A0.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\POWERPNT\Additional\Additional1781209380751027800_BEB49092-9920-4072-9B2F-1E521693C2A0.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\POWERPNT\Additional\Additional1781209380752042200_BEB49092-9920-4072-9B2F-1E521693C2A0.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Primary1779186460482989000_77AD7070-EC8A-4CAE-A8CB-69626782D867.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Primary1779186641199394400_E1C4D0AC-7BAA-4DC1-AFD7-74959B00EE27.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Primary1779186641200562200_E1C4D0AC-7BAA-4DC1-AFD7-74959B00EE27.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Additional\Additional1779186460486654900_77AD7070-EC8A-4CAE-A8CB-69626782D867.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Additional\Additional1779186641201990000_E1C4D0AC-7BAA-4DC1-AFD7-74959B00EE27.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\VISIO\Additional\Additional1779186641203317600_E1C4D0AC-7BAA-4DC1-AFD7-74959B00EE27.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1775129745470367500_5EF683E1-F2F0-45FE-BB46-595A9E7F91BC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1777721450554668900_F07E9DD1-1FA8-4407-9C81-6D9195967050.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1778573733012096400_D5201483-DD94-48F9-8348-127CD1EA34D5.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1778574155502571300_41D350A3-CFE7-43BF-BF9D-FE0A22DF87D3.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1778575515414199000_5AA20E19-50EA-412C-BA11-71DEFE5B0B26.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186352492008900_347AA5F3-BA3F-4143-BD3E-6207C98470A5.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186538702016100_E573F6F7-6896-483B-B90B-C2A5E3714887.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186573343276300_4986B4AC-EBD3-47D9-AC88-42985106165B.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186662328217800_C9EA2A80-D8D1-407A-8843-41BDBD66AA58.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186728751136300_657B7328-4C84-4F47-A41A-BD945D3596FC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186808506615700_65808AFA-4214-4479-8A29-99098B18A7DF.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186840526628500_384923EE-2476-49B6-B0BC-F036A5968503.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186917322783200_3B2ECBC3-5D47-4389-A2D3-90CF338BC82F.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186945983292200_AF4D768E-079F-4C7D-94A9-19683366BA8A.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186970360040900_1242A7F2-004E-4BC4-8006-5535419E0694.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779186998943162300_5AE94D32-2BC1-4FBB-ADEE-21FBF3BFE5C1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1779187029371231100_F74D86BC-4AD8-479F-A24B-806CE9FDAB77.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1780921194230250200_151860C6-4F12-4DEA-A48C-CEA35596FC74.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781087754764092300_88E14DED-683C-4529-84DB-137276B997E8.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781088306674962900_4DEE12E4-DA43-41BA-A3A5-BD4F2F4D0AE8.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781211170577037500_8939CC7B-12C0-4506-A51C-FDCA25CBA467.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781211238879337100_F4AFE9B3-71FA-4022-8FEC-D40D467942CC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781211669093055400_6FC830BE-61EF-4C92-930C-B1133FE6A1C6.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781211751471777700_A230DA74-1594-4C96-B16C-A1E038E5AF24.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781211907995466400_4C60E2E0-E08B-4A93-B092-A3D217250E89.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781212166545598700_4958495B-B2EB-4B03-8D0B-F68A0FBA9464.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781709317875832200_07ED5DFD-9976-4F82-B11D-F92C8930C2B1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781709333796256800_1A67C29C-7023-4E3C-B5C5-BEBF0E9EC1F1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Primary1781709333796796800_1A67C29C-7023-4E3C-B5C5-BEBF0E9EC1F1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1775129745473816300_5EF683E1-F2F0-45FE-BB46-595A9E7F91BC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1777721450557931800_F07E9DD1-1FA8-4407-9C81-6D9195967050.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1778573733018524900_D5201483-DD94-48F9-8348-127CD1EA34D5.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1778574155509777600_41D350A3-CFE7-43BF-BF9D-FE0A22DF87D3.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1778575515418148000_5AA20E19-50EA-412C-BA11-71DEFE5B0B26.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186352499267200_347AA5F3-BA3F-4143-BD3E-6207C98470A5.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186538706011800_E573F6F7-6896-483B-B90B-C2A5E3714887.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186573348730900_4986B4AC-EBD3-47D9-AC88-42985106165B.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186662331504700_C9EA2A80-D8D1-407A-8843-41BDBD66AA58.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186728755535200_657B7328-4C84-4F47-A41A-BD945D3596FC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186808583859000_65808AFA-4214-4479-8A29-99098B18A7DF.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186840532272000_384923EE-2476-49B6-B0BC-F036A5968503.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186917329175000_3B2ECBC3-5D47-4389-A2D3-90CF338BC82F.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186945987330800_AF4D768E-079F-4C7D-94A9-19683366BA8A.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186970368412400_1242A7F2-004E-4BC4-8006-5535419E0694.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779186998947820600_5AE94D32-2BC1-4FBB-ADEE-21FBF3BFE5C1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1779187029380020700_F74D86BC-4AD8-479F-A24B-806CE9FDAB77.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1780921194247124000_151860C6-4F12-4DEA-A48C-CEA35596FC74.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781087754784757100_88E14DED-683C-4529-84DB-137276B997E8.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781088306688543400_4DEE12E4-DA43-41BA-A3A5-BD4F2F4D0AE8.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781211170609203700_8939CC7B-12C0-4506-A51C-FDCA25CBA467.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781211238883467600_F4AFE9B3-71FA-4022-8FEC-D40D467942CC.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781211669098279800_6FC830BE-61EF-4C92-930C-B1133FE6A1C6.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781211751475974100_A230DA74-1594-4C96-B16C-A1E038E5AF24.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781211908000921100_4C60E2E0-E08B-4A93-B092-A3D217250E89.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781212166553239300_4958495B-B2EB-4B03-8D0B-F68A0FBA9464.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781709317907784300_07ED5DFD-9976-4F82-B11D-F92C8930C2B1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781709333800597700_1A67C29C-7023-4E3C-B5C5-BEBF0E9EC1F1.log
+- C:\Users\BOSS\AppData\Local\Temp\Diagnostics\WINWORD\Additional\Additional1781709333801226700_1A67C29C-7023-4E3C-B5C5-BEBF0E9EC1F1.log
+- C:\Users\BOSS\AppData\Local\Temp\servicehub\logs\738C5FC1-DevHub-16984-5ga1tftp-1.log
+- C:\Users\BOSS\AppData\Local\Temp\servicehub\logs\D6465731-DevHub-18068-yzjwcrsm-1.log
+- C:\Users\BOSS\AppData\Local\Temp\servicehub\logs\E757A4CD-DevHub-22220-qf0iiu5c-1.log
+- C:\Users\BOSS\AppData\Local\Temp\servicehub\logs\EFEC3B23-DevHub-17132-o1aot01n-1.log
+- C:\Users\BOSS\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20260608_081740_VS.log
+- C:\Users\BOSS\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20260608_082117_VS.log
+- C:\Users\BOSS\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20260609_072715_VS.log
+- C:\Users\BOSS\AppData\Local\Temp\VSGitHubCopilotLogs\20260608_081332.646_VSGitHubCopilot.chat.log
+- C:\Users\BOSS\AppData\Local\Temp\VSGitHubCopilotLogs\20260608_081447.921_VSGitHubCopilot.chat.log
+- C:\Users\BOSS\AppData\Local\Temp\VSGitHubCopilotLogs\20260609_072653.945_VSGitHubCopilot.chat.log
+- C:\Users\BOSS\AppData\Roaming\.minecraft\webcache2\000003.log
+- C:\Users\BOSS\AppData\Roaming\.minecraft\webcache2\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\.minecraft\webcache2\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\.wynntils\logs\latest.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\File System\000\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\File System\001\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\File System\Origins\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\Local Storage\leveldb\000010.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\logs\main.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\logs\main.old.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\anime-best-app\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\GCM Store\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\GCM Store\Encryption\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Local Storage\leveldb\000274.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Codex\web\Codex\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\DBeaverData\workspace6\.metadata\.log
+- C:\Users\BOSS\AppData\Roaming\DBeaverData\workspace6\.metadata\dbeaver-debug-1781776823917.log
+- C:\Users\BOSS\AppData\Roaming\DBeaverData\workspace6\.metadata\dbeaver-debug.log
+- C:\Users\BOSS\AppData\Roaming\discord\Local Storage\leveldb\000062.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\DiscordSystemHelper_user_rCURRENT.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_krisp.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_media_r2026-06-04_14-54-14.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_media_rCURRENT.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\Discord_updater_rCURRENT.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_utils.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_zstd_r2024-10-24_14-52-13.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\discord_zstd_rCURRENT.log
+- C:\Users\BOSS\AppData\Roaming\discord\logs\renderer_js.log
+- C:\Users\BOSS\AppData\Roaming\discord\module_data\crashlogs\2024_09_15T21_15_29_058Z-0-events.log
+- C:\Users\BOSS\AppData\Roaming\discord\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\discord\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\discord\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\main\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\main\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\monero\IndexedDB\file__0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\monero\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\monero\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\network\IndexedDB\file__0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\network\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\network\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\wallet\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Exodus\Partitions\wallet\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Foxit Software\Continuous\Foxit PDF Reader\FxWebView\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\G HUB\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\G HUB\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\JetBrains\consentOptions\consent-log-data\cbae-4f21-bb07-504ba5c9ff72-release.log
+- C:\Users\BOSS\AppData\Roaming\JetBrains\PyCharm2026.1\plugins\continue-intellij-extension\core\win32-x64\error.log
+- C:\Users\BOSS\AppData\Roaming\MongoDB Compass\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\MongoDB Compass\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\sql_actions_ICH.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\sql_actions_ICH_edit.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.1.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.2.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.3.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.4.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.5.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.6.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.7.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.8.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.9.log
+- C:\Users\BOSS\AppData\Roaming\MySQL\Workbench\log\wb.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\assistant.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\IndexedDB\chrome-extension_jifbgnmbgbdiedhdecealmlgmekpagde_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Local Extension Settings\ebongfbmlegepmkkdjlnlmdcmckedlal\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Local Extension Settings\enegjkbbakeegngfapepobipndnebkdk\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Local Extension Settings\jifbgnmbgbdiedhdecealmlgmekpagde\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Local Extension Settings\ompjkhnkeoicimmaehlcmgmpghobbjoj\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Local Storage\leveldb\000015.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Opera Software\Opera Stable\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\PotPlayerMini64\WebView2\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Wargaming.net\WorldOfTanks\profile\cef_cache\000003.log
+- C:\Users\BOSS\AppData\Roaming\Wargaming.net\WorldOfTanks\profile\cef_cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Wargaming.net\WorldOfTanks\profile\cef_cache\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Wargaming.net\WorldOfTanks\profile\cef_cache\VideoDecodeStats\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\before_login_cache\EBWebView\WV2Profile_enhanceloginaicsidepanel\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\File System\000\t\Paths\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\File System\Origins\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\IndexedDB\https_us05web.zoom.us_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Local Storage\leveldb\000007.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_commonwebapp_default\WebStorage\2\IndexedDB\indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Local Storage\leveldb\000004.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_enhanceloginaicsidepanel\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomapps_mdrrilnnqhcyi1vvj9jrbw\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\IndexedDB\https_docs.zoom.us_0.indexeddb.leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqq\EBWebView\WV2Profile_zoomdocs\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\Default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\favorites_diagnostic.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Extension Rules\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Extension Scripts\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Extension State\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Local Storage\leveldb\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Service Worker\Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Session Storage\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\shared_proto_db\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\shared_proto_db\metadata\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Site Characteristics Database\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\Sync Data\LevelDB\000003.log
+- C:\Users\BOSS\AppData\Roaming\Zoom\data\WebviewCacheX64\tp7frm7ptxqorxab0xjnqqmt\EBWebView\WV2Profile_commonwebapp_default\WebStorage\1\IndexedDB\indexeddb.leveldb\000003.log
+Вы хотите удалить эти файлы? (y/n): n
+Удаление отменено.

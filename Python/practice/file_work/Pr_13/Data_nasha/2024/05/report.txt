@@ -1,0 +1,5 @@
+Automotive,3621
+Beauty,8255
+Sports,4318
+Toys,11350
+Full,27544

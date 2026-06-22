@@ -1,0 +1,107 @@
+Olivia Suarez,2024-08-02,4565,Electronics,Dallas
+Jennifer Jacobs,2023-08-19,4963,Automotive,London
+Erin Johnson,2024-08-29,1796,Clothing,Miami
+Liam Smith,2023-11-14,3247,Toys,New York
+Sophia Brown,2024-03-21,5872,Books,Los Angeles
+Noah Davis,2023-09-05,4321,Sports,Chicago
+Emma Wilson,2024-06-11,2150,Beauty,Houston
+Ava Martinez,2023-12-30,3987,Electronics,Phoenix
+Isabella Anderson,2024-01-18,2765,Automotive,Philadelphia
+Mia Thomas,2023-07-23,1842,Clothing,San Antonio
+James Taylor,2024-05-04,3498,Toys,San Diego
+Benjamin Moore,2023-10-11,4273,Books,Dallas
+Charlotte Jackson,2024-04-17,2659,Sports,San Jose
+Amelia White,2023-11-29,3120,Beauty,Austin
+Elijah Harris,2024-02-22,4715,Electronics,Jacksonville
+Lucas Martin,2023-09-18,3896,Automotive,Fort Worth
+Mason Thompson,2024-03-03,1984,Clothing,Columbus
+Harper Garcia,2023-12-14,2567,Toys,Charlotte
+Evelyn Martinez,2024-06-28,4329,Books,San Francisco
+Abigail Robinson,2023-08-09,1786,Sports,Indianapolis
+Logan Clark,2024-01-25,3952,Beauty,Seattle
+Ella Rodriguez,2023-07-31,2147,Electronics,Denver
+Aiden Lewis,2024-05-19,3621,Automotive,Washington
+Scarlett Lee,2023-10-23,4895,Clothing,Boston
+Victoria Walker,2024-03-16,2710,Toys,El Paso
+Madison Hall,2023-11-07,3568,Books,Detroit
+Aria Allen,2024-02-08,4123,Sports,Nashville
+Jackson Young,2023-09-12,2384,Beauty,Memphis
+Sebastian Hernandez,2024-04-29,3971,Electronics,Portland
+Avery King,2023-12-05,1896,Automotive,Oklahoma City
+Chloe Wright,2024-01-11,3245,Clothing,Las Vegas
+Grace Scott,2023-07-19,4610,Toys,Louisville
+Lily Green,2024-06-03,2793,Books,Baltimore
+Samuel Adams,2023-08-28,3127,Sports,Milwaukee
+Henry Baker,2024-05-23,4279,Beauty,Albuquerque
+Eleanor Gonzalez,2023-10-02,1958,Electronics,Tucson
+Mila Nelson,2024-02-27,3412,Automotive,Fresno
+Leo Carter,2023-11-15,2764,Clothing,Sacramento
+Zoe Mitchell,2024-03-08,3897,Toys,Kansas City
+Jack Perez,2023-09-22,4210,Books,Mesa
+Alexander Roberts,2024-04-12,2561,Sports,Atlanta
+Hannah Turner,2023-12-20,3184,Beauty,Omaha
+Eli Phillips,2024-01-30,4723,Electronics,Raleigh
+Camila Campbell,2023-08-14,2975,Automotive,Miami
+Nathan Parker,2024-06-07,3548,Clothing,Long Beach
+Layla Evans,2023-07-25,1987,Toys,Virginia Beach
+Lillian Edwards,2024-03-27,4312,Books,Oakland
+Ryan Collins,2023-09-03,2658,Sports,Minneapolis
+Victoria Stewart,2024-05-15,3976,Beauty,Tulsa
+Owen Sanchez,2023-10-28,2183,Electronics,Arlington
+Addison Morris,2024-02-16,3562,Automotive,New Orleans
+Grace Rogers,2023-11-09,4327,Clothing,Wichita
+Leo Reed,2024-01-05,2796,Toys,Cleveland
+Aurora Cook,2023-08-21,3945,Books,Tampa
+Isaac Morgan,2024-06-12,2158,Sports,Bakersfield
+Elena Bell,2023-07-28,3724,Beauty,Aurora
+Wyatt Murphy,2024-03-19,4893,Electronics,Anaheim
+Scarlett Bailey,2023-09-10,2679,Automotive,Houston
+Julian Rivera,2024-04-23,3217,Clothing,Orlando
+Levi Cooper,2023-12-02,3986,Toys,Pittsburgh
+Nora Richardson,2024-01-27,2149,Books,Santa Ana
+Hazel Cox,2023-08-06,4320,Sports,St. Louis
+Cameron Howard,2024-06-18,2781,Beauty,Lincoln
+Stella Ward,2023-07-13,3476,Electronics,Stockton
+Connor Torres,2024-03-30,1962,Automotive,Cincinnati
+Ariana Peterson,2023-09-26,4218,Clothing,Greensboro
+Eli Gonzalez,2024-05-06,3574,Toys,Plano
+Penelope Simmons,2023-10-12,2685,Books,Henderson
+Isaiah Foster,2024-02-20,4391,Sports,Lincoln
+Violet Bryant,2023-11-22,3125,Beauty,Glendale
+Nathaniel Alexander,2024-01-14,2794,Electronics,Buffalo
+Lucy Russell,2023-08-17,3957,Automotive,North Las Vegas
+Leo Griffin,2024-06-09,2153,Clothing,Chandler
+Eliana Diaz,2023-07-30,4315,Toys,Laredo
+Anthony Hayes,2024-03-24,1989,Books,Chula Vista
+Hannah Myers,2023-09-08,3567,Sports,Madison
+Julian Ford,2024-04-06,4271,Beauty,Lubbock
+Aurora Hamilton,2023-12-11,2763,Electronics,Scottsdale
+Wyatt Graham,2024-02-04,3928,Automotive,Reno
+Lillian Sullivan,2023-11-18,2156,Clothing,Glendale
+Lucas Wallace,2024-01-21,3899,Toys,Baton Rouge
+Isla West,2023-08-03,2642,Books,Durham
+Ethan Cole,2024-05-28,4318,Sports,Lubbock
+Aria Bryant,2023-07-06,1975,Beauty,Worcester
+Leo Henderson,2024-03-12,3586,Electronics,Garland
+Maya Hamilton,2023-09-16,2712,Automotive,Chesapeake
+Benjamin Chapman,2024-04-18,3967,Clothing,Irving
+Sofia Lane,2023-12-22,3241,Toys,Hialeah
+Logan Elliott,2024-01-08,4394,Books,Spokane
+Evelyn Montgomery,2023-08-25,2137,Sports,Rochester
+Oliver Morrison,2024-06-21,3520,Beauty,Boise
+Ella Hopkins,2023-07-02,2715,Electronics,Fremont
+James Fisher,2024-03-05,3958,Automotive,Santa Clarita
+Avery Webb,2023-09-20,2181,Clothing,Des Moines
+Scarlett Watts,2024-05-10,4278,Toys,San Bernardino
+Mila Austin,2023-10-01,2648,Books,Modesto
+Henry Bishop,2024-02-12,3594,Sports,Birmingham
+Chloe Ramos,2023-11-25,1954,Beauty,Glendale
+Alexander Chambers,2024-01-29,4215,Electronics,Richmond
+Lily Wallace,2023-08-13,3122,Automotive,Boise
+Lucas Robertson,2024-06-05,2768,Clothing,Fremont
+Aria Hamilton,2023-07-17,4311,Toys,Spokane
+Eli Warren,2024-03-14,1981,Books,Des Moines
+Isabella Burke,2023-09-01,3569,Sports,Modesto
+Mason Henry,2024-04-27,4274,Beauty,San Bernardino
+Sofia Murray,2023-12-08,2790,Electronics,Richmond
+Jack Ford,2024-01-20,3946,Automotive,Henderson

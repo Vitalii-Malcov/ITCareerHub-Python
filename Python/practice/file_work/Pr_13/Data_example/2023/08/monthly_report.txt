@@ -1,0 +1,4 @@
+Automotive,15017
+Books,6587
+Sports,11370
+Full,32974

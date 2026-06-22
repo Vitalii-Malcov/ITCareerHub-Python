@@ -1,0 +1,15 @@
+(.venv) PS D:\IT Karier HaB\Python\Домашняя Работа\Файловая система> python .\1_1.py "C:\Users\BOSS\Documents"
+Содержимое директории 'C:\Users\BOSS\Documents':
+Папки:
+- Codex
+- dumps
+- My Music
+- My Pictures
+- My Videos
+- Visual Studio 18
+- Zoom
+- Мои фигуры
+- Настраиваемые шаблоны Office
+Файлы:
+- desktop.ini
+(.venv) PS D:\IT Karier HaB\Python\Домашняя Работа\Файловая система>

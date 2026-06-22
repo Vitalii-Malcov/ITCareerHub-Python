@@ -1,0 +1,5 @@
+Beauty,8451
+Books,7122
+Clothing,8469
+Sports,2158
+Full,26200

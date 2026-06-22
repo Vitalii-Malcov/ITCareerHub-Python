@@ -1,0 +1,5 @@
+Beauty,8199
+Books,3568
+Clothing,9247
+Toys,3247
+Full,24261

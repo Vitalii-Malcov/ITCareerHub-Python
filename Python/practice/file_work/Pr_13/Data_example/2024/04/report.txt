@@ -1,0 +1,5 @@
+Beauty,8545
+Clothing,7184
+Electronics,3971
+Sports,5220
+Full,24920
