@@ -21,12 +21,12 @@ def login():
     password = request.form.get("password")
 
     if not email or not password:
-        return "Заполни все поля!"
+        return render_template("index.html", error="Заполни все поля!")
 
     if email == "admin@mail.com" and password == "1234":
         return redirect(f"/dashboard?email={email}")
 
-    return "Неверный логин или пароль"
+    return render_template("index.html", error="Неверный логин или пароль")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
