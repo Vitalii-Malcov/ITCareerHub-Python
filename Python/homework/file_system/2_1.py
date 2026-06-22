@@ -78,3 +78,56 @@ else:
 
             else:
                 print("Удаление отменено.")
+
+# 
+# import sys
+# from pathlib import Path
+#
+#
+# def find_files(directory: Path, extension: str) -> list[Path]:
+#     """Рекурсивно находит файлы с заданным расширением."""
+#     return list(directory.rglob(f"*{extension}"))
+#
+#
+# def delete_files(files: list[Path]) -> None:
+#     """Удаляет файлы, не падая на ошибке отдельного файла."""
+#     deleted = 0
+#     for file in files:
+#         try:
+#             file.unlink()
+#             deleted += 1
+#         except OSError as e:
+#             print(f"Не удалось удалить {file}: {e}")
+#     print(f"Удаление завершено. Удалено: {deleted} из {len(files)}.")
+#
+#
+# def main() -> None:
+#     if len(sys.argv) < 3:
+#         sys.exit("Использование: python script.py <путь> <расширение>\n"
+#                  "Пример:        python script.py C:\\Users\\Vitalii\\Documents .log")
+#
+#     directory = Path(sys.argv[1])
+#     extension = sys.argv[2]
+#     if not extension.startswith("."):      # 'log' → '.log', чтобы не поймать 'catalog'
+#         extension = "." + extension
+#
+#     if not directory.is_dir():             # False и если пути нет, и если это не папка
+#         sys.exit(f"Ошибка: '{directory}' не существует или не является папкой.")
+#
+#     files = find_files(directory, extension)
+#     if not files:
+#         print(f"Файлы с расширением '{extension}' не найдены.")
+#         return
+#
+#     print(f"Найдены файлы с расширением '{extension}':")
+#     for file in files:
+#         print(f"- {file}")
+#
+#     if input("Вы хотите удалить эти файлы? (y/n): ").strip().lower() in ("y", "yes"):
+#         delete_files(files)
+#     else:
+#         print("Удаление отменено.")
+#
+#
+# if __name__ == "__main__":
+#     main()
