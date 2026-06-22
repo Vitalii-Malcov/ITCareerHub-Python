@@ -1,1 +1,1 @@
-# ITCareerHub-Paython
+# ITCareerHub-Python
