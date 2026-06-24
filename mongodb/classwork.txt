@@ -1,0 +1,72 @@
+# Requires the PyMongo package.
+# https://api.mongodb.com/python/current
+// Написать запрос, который вернёт всех пользователей, у которых возраст равен 27.
+client = MongoClient('mongodb://ich1:password@mongo.itcareerhub.de/?readPreference=primary&ssl=false&authMechanism=DEFAULT&authSource=ich')
+filter={
+    'age': 27
+}
+
+result = client['ich']['US_Adult_Income'].find(
+  filter=filter
+)
+
+
+// 2. Написать запрос, который вернёт всех пользователей,
+// которые проживают в Мехико и  у которых возраст равен 27.
+
+db.getCollection('US_Adult_Income').find({
+  native_country: ' Mexico',
+  age: 27
+});
+
+
+// 3. Вывести всех пользователей, но только  поля age и native_country
+db.getCollection('US_Adult_Income').find(
+  {},
+  { age: 1, native_country: 1 }
+);
+
+
+// 4. Вывести всех пользователей, но только  поля age и native_country, исключить  поле "_id"
+db.getCollection('US_Adult_Income').find(
+  {},
+  { age: 1, native_country: 1, _id: 0 }
+);
+
+// 5. Отсортировать полученные документы по убыванию, по возрастанию.
+db.getCollection('US_Adult_Income')
+  .find({}, { age: 1, native_country: 1 })
+  .sort({ age: -1 });
+
+db.getCollection('US_Adult_Income')
+  .find({}, { age: 1, native_country: 1 })
+  .sort({ age: 1 });
+----------------------------------------------------------------------------------------------
+// 1. Вывести всех пользователей, возраст которых больше 18 и меньше 30
+
+db.getCollection('US_Adult_Income')
+  .find({ age: { $gt: 18, $lt: 30 } })
+  .sort({ age: -1 });
+
+  // 2. Вывести всех пользователей, education которых не равен " Bachelors"
+  db.getCollection('US_Adult_Income').find({
+  education: { $ne: ' Bachelors' }
+});
+
+// 3. Найти только тех, кто работает 45, 50 или 80 часов в неделю
+db.getCollection('US_Adult_Income').find({
+  hours_per_week: { $in: [45, 50, 80] }
+});
+
+// 4. Найти только тех, кто НЕ работает 45, 50 или 80 часов в неделю
+db.getCollection('US_Adult_Income').find({
+  hours_per_week: { $nin: [45, 50, 80] }
+});
+
+// 5. Выбрать всех:  Native_country  из " United-States" ИЛИ с доходом больше 50k:
+db.getCollection('US_Adult_Income').find({
+  $or: [
+    { native_country: ' United-States' },
+    { income: ' >50k' }
+  ]
+});

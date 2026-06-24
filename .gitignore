@@ -25,3 +25,7 @@ Fork/
 
 # Claude Code tool settings
 .claude/
+
+local_settings.py
+
+mongo_connector.py
