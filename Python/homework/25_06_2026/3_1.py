@@ -32,7 +32,9 @@ from itertools import product
 def get_product(clothes, colors, sizes):
     for clothe, color, size in product(clothes, colors, sizes):
         print(f"{clothe} - {color} - {size}")
-
+# T-shirt, Red, S
+# T-shirt, Red, M
+# T-shirt, Red, L
 get_product(clothes, colors, sizes)
 
 #####################################################################
