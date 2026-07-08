@@ -1,0 +1,123 @@
+// ich.imdb
+
+// 1. Найдите все фильмы, получившие на Rotten Tomatoes оценку выше 4,5.
+// Рецензии на Rotten Tomatoes содержатся во вложенном документе Tomatoes.
+// Отсортируйте результаты в порядке возрастания даты выпуска.
+
+db.getCollection('imdb').aggregate(
+  [
+    {
+      $match: {
+        'tomatoes.viewer.rating': { $gt: 4.5 }
+      }
+    },
+    { $sort: { released: 1 } },
+    {
+      $project: {
+        title: 1,
+        plot: 1,
+        released: 1,
+        'tomatoes.viewer.rating': 1,
+        _id: 0
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+
+// 2. Для фильмов жанра «Драма» и из США, покажите их
+//    сюжет (plot), продолжительность (runtime) и название (title).
+// Упорядочите результаты по убыванию продолжительности.
+
+db.getCollection('imdb').aggregate(
+  [
+    {
+      $match: {
+        genres: 'Drama',
+        countries: 'USA'
+      }
+    },
+    { $sort: { runtime: -1 } },
+    {
+      $project: {
+        _id: 0,
+        title: 1,
+        plot: 1,
+        runtime: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+
+// 3. Для фильмов жанра «Драма» и «Фэнтези» и относящихся к США, выведите их
+// сюжет, продолжительность (время выполнения) и название.
+// Упорядочите результаты по убыванию продолжительности.
+
+result = client['ich']['imdb'].aggregate([
+    {
+        '$match': {
+            'genres': {
+                '$all': [
+                    'Drama', 'Fantasy'
+                ]
+            },
+            'countries': 'USA'
+        }
+    }, {
+        '$sort': {
+            'runtime': -1
+        }
+    }, {
+        '$project': {
+            '_id': 0,
+            'title': 1,
+            'plot': 1,
+            'runtime': 1
+        }
+    }
+])
+
+
+// 4. Найдите фильмы, удовлетворяющие всем следующим условиям:
+// - были опубликованы между 1900 и 1910 годами.
+// - рейтинг imdb выше 7.0
+// - имеют награды или номинации
+db.getCollection('imdb').aggregate(
+  [
+    {
+      $addFields: {
+        year_int: { $toInt: '$year' }
+      }
+    },
+    {
+      $match: {
+        year_int: { $gte: 1900, $lte: 1910 },
+        'imdb.rating': { $gt: 7 },
+        $or: [
+          { 'awards.wins': { $gt: 0 } },
+          { 'awards.nominations': { $gt: 0 } }
+        ]
+      }
+    },
+    { $sort: { 'imdb.rating': 1 } },
+    {
+      $project: {
+        title: 1,
+        year_int: 1,
+        runtime: 1,
+        _id: 0
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+
+// Выведите название, год выхода и длительность и не показывайте идентификатор документа .
+// Отсортируйте результаты по возрастанию рейтинга IMDB.
+
+
+

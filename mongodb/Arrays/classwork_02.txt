@@ -1,0 +1,67 @@
+// ------------ ich.US_Adult_Income ------------
+
+// 1. Вернуть пользователей, чей возраст больше или равен 30
+
+result = client['ich']['US_Adult_Income'].aggregate([
+    {
+        '$match': {
+            'age': {
+                '$gte': 30
+            }
+        }
+    }
+])
+
+// 2. Вернуть пользователей, чей возраст меньше 30 лет
+
+result = client['ich']['US_Adult_Income'].aggregate([
+    {
+        '$match': {
+            'age': {
+                '$lt': 30
+            }
+        }
+    }
+])
+
+
+// 3. Вернуть пользователей, чей возраст равен 22 или 32
+
+result = client['ich']['US_Adult_Income'].aggregate([
+    {
+        '$match': {
+            'age': {
+                '$in': [
+                    22, 32
+                ]
+            }
+        }
+    }
+])
+
+// ------------ ich.customers ---------------
+// 4. Вернуть всех пользователей, ID которых не ANTON
+
+result = client['ich']['US_Adult_Income'].aggregate([
+    {
+        '$match': {
+            'CustomerID': {
+                '$ne': 'ANTON'
+            }
+        }
+    }
+])
+
+// 5. Подсчитать количество пользователей, ID которых не ANTON
+
+result = client['ich']['US_Adult_Income'].aggregate([
+    {
+        '$match': {
+            'CustomerID': {
+                '$ne': 'ANTON'
+            }
+        }
+    }, {
+        '$count': 'total'
+    }
+])
