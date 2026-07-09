@@ -1,0 +1,170 @@
+use sample_data;
+
+// 1. Из коллекции sample_data.companies: найти компании, основанные в период с 2005 года.
+db.getCollection('companies').aggregate(
+  [{ $match: { founded_year: { $gte: 2005 } } }],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+
+/* 2. Выяснить, сколько из них:
+
+Стартапы (до 30 сотрудников)
+Средние компании (30-100 сотрудников)
+Крупные компании (100-1000 сотрудников)
+Очень большие компании (свыше 1000 сотрудников)
+
+* Особенность базы - есть компании с количеством сотрудников 0. Их лучше не учитывать. */
+
+// 3. Составьте список из 5 самых больших поглощений (acquisition) компаний по цене.
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        'acquisition.price_amount': { $gt: 0 }
+      }
+    },
+    { $sort: { 'acquisition.price_amount': -1 } },
+    { $limit: 5 }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+/* 4. Для пяти самых больших поглощений (acquisition) найдите:
+ - списки подтверждающих материалов (source_url)
+ - укажите имя компании
+ - имя участника сделки
+ - и сумму сделки */
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        'acquisition.price_amount': { $gt: 0 }
+      }
+    },
+    { $sort: { 'acquisition.price_amount': -1 } },
+    { $limit: 5 },
+    {
+      $project: {
+        _id: 0,
+        name: 1,
+        'acquisition.acquiring_company.name': 1,
+        'acquisition.price_amount': 1,
+        'acquisition.price_currency_code': 1,
+        'acquisition.source_url': 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+// 5. Составьте список компаний, которые привлекли инвестиции (total_money_raised).
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        total_money_raised: { $ne: '$0' }
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        name: 1,
+        total_money_raised: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+// 6. Узнайте, сколько их?
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        total_money_raised: { $ne: '$0' }
+      }
+    },
+    { $count: 'Компании с инвестициями' }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+/* 7. Составьте список компаний, инвестиции которых оценены в долларах и их сумма более 1 миллиона.
+(total_money_raised - строковое поле, поэтому используйте регулярное выражение $regex) */
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        total_money_raised: {
+          $regex: RegExp(
+            '^\\$[2-9]M|^\\$[0-9]{2,}M|^\\$[1-9]B'
+          )
+        }
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        name: 1,
+        total_money_raised: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+// 8. Сколько таких компаний?
+db.getCollection('companies').aggregate(
+  [
+    {
+      $match: {
+        total_money_raised: {
+          $regex: RegExp(
+            '^\\$[2-9]M|^\\$[0-9]{2,}M|^\\$[1-9]B'
+          )
+        }
+      }
+    },
+    { $count: 'Больше 1 миллиона долларов' }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+// 9. Коллекция  sample_data.trips: сколько длилась сама долгая аренда велосипеда?
+db.getCollection('trips').aggregate(
+  [
+    { $sort: { tripduration: -1 } },
+    { $limit: 1 },
+    {
+      $project: {
+        _id: 0,
+        bikeid: 1,
+        tripduration: 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+// 10. Какой велосипед брали наибольшее количество раз?
+db.getCollection('trips').aggregate(
+  [
+    {
+      $group: {
+        _id: '$bikeid',
+        count: { $sum: 1 }
+      }
+    },
+    { $sort: { count: 1 } },
+    { $limit: 1 }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+// 11. Коллекция  sample_data.restaurants: посчитать количество ресторанов по районам (borough).
+db.getCollection('restaurants').aggregate(
+  [
+    {
+      $group: {
+        _id: '$borough',
+        count: { $sum: 1 }
+      }
+    },
+    { $sort: { count: -1 } }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
