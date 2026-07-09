@@ -30,4 +30,10 @@ local_settings.py
 
 mongo_connector.py
 
+.venv/
+Личное/
 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
