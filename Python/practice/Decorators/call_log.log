@@ -1,0 +1,3 @@
+2026-07-14 14:16:17,066 - INFO - function add | args 5, 3; kwargs: None | return 8
+2026-07-14 14:16:17,067 - INFO - function greet_with_name | args Alice; kwargs: punctuation=. | return Hello, Alice.
+2026-07-14 14:16:17,067 - INFO - function greet | args None; kwargs: None | return Hello
