@@ -14,7 +14,7 @@ def say_hello():
 """
 
 """ 03. Рамка вокруг вывода — альтернативные варианты решения """
-from contextlib import contextmanager
+
 from functools import wraps
 from typing import Callable
 
