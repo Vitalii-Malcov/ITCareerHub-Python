@@ -40,44 +40,44 @@ import re
 from typing import Iterator
 
 
-def extract_mobile_numbers(text) -> list[str]:
-    pattern = re.compile(r'(\+49|0049)[ \t\-]*(1[567]\d)[ \t\-]*((?:\d[ \t\-]*){6,8}\d)')
-
-    valid_numbers = []
-
-    for match in pattern.finditer(text):
-        operator_code = match.group(2)
-        rest = match.group(3)
-
-        digits = re.sub(r'\D', '', operator_code + rest)
-        number = f'+49{digits}'
-
-        if 10 <= len(digits) <= 12:
-            valid_numbers.append(number)
-    return valid_numbers
-
-
-def read_file(file_path) -> str:
-    with open(file_path, 'r', encoding='utf-8') as file:
-        return file.read()
-
-text = read_file('german_numbers.txt')
-valid_numbers = extract_mobile_numbers(text)
-
-print("Валидные номера:")
-for number in valid_numbers:
-    print(number)
+# def extract_mobile_numbers(text) -> list[str]:
+#     pattern = re.compile(r'(\+49|0049)[ \t\-]*(1[567]\d)[ \t\-]*((?:\d[ \t\-]*){6,8}\d)')
+#
+#     valid_numbers = []
+#
+#     for match in pattern.finditer(text):
+#         operator_code = match.group(2)
+#         rest = match.group(3)
+#
+#         digits = re.sub(r'\D', '', operator_code + rest)
+#         number = f'+49{digits}'
+#
+#         if 10 <= len(digits) <= 12:
+#             valid_numbers.append(number)
+#     return valid_numbers
+#
+#
+# def read_file(file_path) -> str:
+#     with open(file_path, 'r', encoding='utf-8') as file:
+#         return file.read()
+#
+# text = read_file('german_numbers.txt')
+# valid_numbers = extract_mobile_numbers(text)
+#
+# print("Валидные номера:")
+# for number in valid_numbers:
+#     print(number)
 
 
 #//////////////////////////////////////////////////////////////////////////////////
-CANDIDATE_RE = re.compile(r'(?:\+49|0049)[ \t\-]*1[567][\d \t\-]{5,17}\d')
+CANDIDATE_RE = re.compile(r'(?:\+49|0049)[ \t\-]*1[567]\d[\d \t\-]{5,17}')
 
 STRICT_RE = re.compile(r'^\+49(1[567]\d)(\d{7,9})$')
 
 
 def normalize(raw: str) -> str:
     digits = re.sub(r'\D', '', raw)
-    digits = digits.removeprefix('0049').removeprefix('49')
+    digits = digits.removeprefix('0049').removeprefix('+49')
     return f'+49{digits}'
 
 
