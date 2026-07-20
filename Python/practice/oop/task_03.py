@@ -25,12 +25,12 @@ class Student:
         age = relativedelta(today, self.birth_date)
         return age.years
 
-    def __str__(self):
+    def __repr__(self):
         return f"Student: {self.name}, birth_date: {self.birth_date}, ID: {self.student_id}"
 
 s1 = Student("Alice", "2005-05-10")
 print(s1)
-print(str(s1) == "Student: Alice, birth_date: 2005-05-10, ID: 1")
+print(repr(s1) == "Student: Alice, birth_date: 2005-05-10, ID: 1")
 
 # "Student: Alice, birth_date: 2005-05-10, ID: 1")
 # True

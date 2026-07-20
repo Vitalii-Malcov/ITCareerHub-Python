@@ -33,7 +33,7 @@ class Student:
         age = relativedelta(target_date, self.birth_date)
         return age.years
 
-    def __str__(self):
+    def __repr__(self):
         return f"Student: {self.name}, birth_date: {self.birth_date}, ID: {self.student_id}"
 
     def show_info(self):
