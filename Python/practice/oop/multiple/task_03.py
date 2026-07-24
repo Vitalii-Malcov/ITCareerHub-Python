@@ -17,17 +17,41 @@
 
 Проверьте работу метода, создав несколько чеков внутри смены.
 """
+from itertools import count
 from task_01 import Receipt
 
 class Shift:
-    pass
+    _id_counter = 0
 
+    @classmethod
+    def _next_id(cls):
+        cls._id_counter += 1
+        return cls._id_counter
 
+    def __init__(self):
+        self.id = Shift._next_id()
+        self.receipts = []
+        self.status = "Open"
+        self._receipts_ids = count(1)
+
+    def is_closed(self):
+        return self.status == "Closed"
+
+    def close(self):
+        self.status = "Closed"
+
+    def get_total(self):
+        return sum(r.amount for r in self.receipts)
+
+    def list_receipts(self):
+        print(self.receipts)
 
     def add_receipt(self, amount):
-        pass
-
-
+        if self.is_closed():
+            raise ValueError("Cannot add receipts to a closed shift.")
+        receipt = Receipt(next(self._receipts_ids), amount)
+        self.receipts.append(receipt)
+        return receipt
 
 if __name__ == "__main__":
     shift = Shift()

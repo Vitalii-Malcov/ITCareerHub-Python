@@ -24,16 +24,32 @@
 """
 
 class Receipt:
-    pass
+    def __init__(self, id, amount):
+        self.id = id
+        self.amount = amount
+        self._validate()
 
+    def _validate(self):
+        pass
+
+    def __str__(self):
+        sign = "+" if self.amount > 0 else "-"
+        return f"{type(self).__name__}({self.id}:{sign}{abs(self.amount)})"
+
+    def __repr__(self):
+        return str(self)
 
 
 class SaleReceipt(Receipt):
-    pass
+    def _validate(self):
+        if self.amount <= 0:
+            raise ValueError("SaleReceipt amount must be positive.")
 
 
 class ReturnReceipt(Receipt):
-    pass
+    def _validate(self):
+        if self.amount >= 0:
+            raise ValueError("ReturnReceipt amount must be negative.")
 
 
 if __name__ == "__main__":

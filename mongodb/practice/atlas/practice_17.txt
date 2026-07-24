@@ -1,5 +1,24 @@
 // 1. Подключиться к ich_edit.movies, используя учётную запись с правами на запись (если не удалось подключится к Atlas!)
-
+result = client['sample_mflix']['movies'].aggregate([
+    {
+        '$match': {
+            'imdb.rating': {
+                '$gte': 8
+            }
+        }
+    }, {
+        '$sort': {
+            'imdb.rating': -1
+        }
+    }, {
+        '$limit': 50
+    }, {
+        '$out': {
+            'db': 'sample_mflix',
+            'coll': 'highly_rated_movies'
+        }
+    }
+])
 /* 2. Желательно работать в Atlas с коллекцией sample_mflix.movies (там у всех есть свои коллекции и нет ограничений!). */
 
 /* 3. Выбрать фильмы и сериалы,  у которых рейтинг imdb.rating составляет 8 и выше, отсортировать их по убыванию рейтинга IMDb, и 50 документов записать в новую коллекцию под названием highly_rated_movies.
@@ -17,9 +36,13 @@ https://github.com/it-career-hub/MySQL_databases/blob/main/BankChurners.csv */
 // 7. В mongosh создать текстовый индекс на поле Education_Level.
 
 // 8. Осуществить поиск документов, содержащих указанный текст в поле Education_Level (выбрать все документы, где уровень образования "Graduate")
-
+db.getCollection('credit_cards').find({
+  $text: { $search: 'Graduate' }
+});
 // 9. Проверить, используется ли текстовый индекс в вашем запросе.
-
+db.getCollection('credit_cards').explain().find({
+  $text: { $search: 'Graduate' }
+});
 /* 10. Создать составной индекс для полей Education_Level и Customer_Age в коллекции credit_cards (поэкспериментировать с запросами, чтобы проверить, работают ли индексы "winningPlan"):
     - Написать запрос с использованием метода .find
     - Написать запрос с использованием метода .sort */

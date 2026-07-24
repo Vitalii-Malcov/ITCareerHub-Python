@@ -26,18 +26,62 @@
 - этот созданные возвратный чек в текущую смену, как и обычные чеки
 """
 from __future__ import annotations
+from itertools import count
+
+from dns.asyncquery import receive_tcp
+
 from task_01 import Receipt
 
+
 class Shift:
-    pass
+    _id_counter = 0
 
+    @classmethod
+    def _next_id(cls):
+        cls._id_counter += 1
+        return cls._id_counter
 
+    def __init__(self):
+        self.id = Shift._next_id()
+        self.receipts = []
+        self.status = "OPEN"
+        self._receipt_ids = count(1)
 
+    def is_closed(self):
+        return self.status == "CLOSED"
+
+    def close(self):
+        self.status = "CLOSED"
+
+    def get_total(self):
+        return sum(r.amount for r in self.receipts)
+
+    def list_receipts(self):
+        print(self.receipts)
+
+    def add_receipt(self, amount):
+        if self.is_closed():
+            raise ValueError("Cannot add receipts to a closed shift.")
+        receipt = Receipt(next(self._receipt_ids), amount)
+        self.receipts.append(receipt)
+        return receipt
 
 
     def add_return(self, source_shift: Shift, original_id, return_amount):
-        pass
+        if self.is_closed():
+            raise ValueError("Cannot add receipts to a closed shift.")
 
+        original_receipt = next((r for r in source_shift.receipts if r.id == original_id), None)
+        if original_receipt is None:
+            raise ValueError("Original receipt not found.")
+
+        if return_amount > original_receipt.amount:
+            raise ValueError("Return amount exceeds original.")
+
+
+        return_receipt = Receipt(next(self._receipt_ids), -return_amount)
+        self.receipts.append(return_receipt)
+        return return_receipt
 
 if __name__ == "__main__":
     shift1 = Shift()

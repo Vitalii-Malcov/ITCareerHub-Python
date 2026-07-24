@@ -18,21 +18,28 @@
 """
 
 class Shift:
-    _id_counter = ...
+    _id_counter = 0
+
+    @classmethod
+    def _next_id(cls):
+        cls._id_counter += 1
+        return cls._id_counter
 
     def __init__(self):
-        pass
+        self.id = Shift._next_id()
+        self.receipts = []
+        self.status = "Open"
 
     def is_closed(self):
-        pass
+        return self.status == "Closed"
 
     def close(self):
-        pass
+        self.status = "Closed"
 
     def get_total(self):
-        pass
+        return sum(r.amount for r in self.receipts)
 
     def list_receipts(self):
-        pass
+        print(self.receipts)
 
 
