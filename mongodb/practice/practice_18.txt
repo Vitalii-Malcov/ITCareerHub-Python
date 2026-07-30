@@ -133,13 +133,25 @@
     {
         '$group': {
             '_id': '$state',
-            'avgPop': {
-                '$avg': '$pop'
+            'state_pop': {
+                '$sum': '$pop'
             }
         }
     }, {
-        '$sort': {
-            'avgPop': -1
+        '$group': {
+            '_id': None,
+            'average_state_pop': {
+                '$avg': '$state_pop'
+            }
+        }
+    }, {
+        '$project': {
+            'average_state_pop': {
+                '$round': [
+                    '$average_state_pop'
+                ]
+            },
+            '_id': 0
         }
     }
 ]
