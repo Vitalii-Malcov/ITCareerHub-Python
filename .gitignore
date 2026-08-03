@@ -28,6 +28,10 @@ Fork/
 
 local_settings.py
 
+local_settings_hw.py
+
+local_settings_pr.py
+
 mongo_connector.py
 
 .venv/
