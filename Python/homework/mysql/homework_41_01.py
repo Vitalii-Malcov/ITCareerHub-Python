@@ -39,7 +39,7 @@ class MySQLConnection:
             self.connection = mysql.connector.connect(**self.dbconfig)
             self.cursor = self.connection.cursor(dictionary=True)
         except mysql.connector.Error as e:
-            raise DatabaseError(f"Не удалось подключиться к базе данных: {e}")
+            raise DatabaseError(f"Не удалось подключиться к базе данных: {e}") from e
         return self
 
     def __exit__(self, exc_type, exc_val, exc_tb):

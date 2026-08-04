@@ -24,12 +24,10 @@ class DatabaseConnection:
 
     def __init__(self, config):
         self._config = config
-
         self._connection = None
 
     def __enter__(self):
         self._connection = mysql.connector.connect(**self._config)
-
         return self
 
     def __exit__(self, exc_type, exc_val, exc_tb):
@@ -40,7 +38,6 @@ class DatabaseConnection:
         return self._connection.cursor(dictionary=dictionary)
 
     def commit(self):
-        # commit() сохраняет изменения (INSERT/UPDATE/DELETE) в базе окончательно
         self._connection.commit()
 
 
@@ -55,17 +52,13 @@ class DatabaseInitializer:
 
     def __init__(self, connection, db_name):
         self._connection = connection
-
         self._db_name = db_name
 
     def create(self):
         cursor = self._connection.cursor()
         cursor.execute(f"CREATE DATABASE IF NOT EXISTS {self._db_name}")
-
         cursor.execute(f"USE {self._db_name}")
-
         cursor.close()
-
         print(f"Database '{self._db_name}' created or already exists.")
 
 
@@ -74,7 +67,6 @@ if __name__ == "__main__":
 
     with DatabaseConnection(dbconfig_write) as db:
         initializer = DatabaseInitializer(db, db_name)
-
         initializer.create()
 
 # Database '060326-ptm_vitalii_malcov_hw' created or already exists.

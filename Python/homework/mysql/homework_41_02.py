@@ -42,7 +42,7 @@ class WorldDB(WorldDB01):
         try:
             self.cursor.execute(
                 "SELECT Code, Name FROM country WHERE LOWER(Name) = LOWER(%s)",
-                (country_name,),
+                (country_name,)
             )
             country = self.cursor.fetchone()
             if country is None:

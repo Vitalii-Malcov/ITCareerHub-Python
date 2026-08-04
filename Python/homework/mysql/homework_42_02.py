@@ -28,7 +28,6 @@ class BaseRepository:
     """
 
     def __init__(self, connection):
-        # Сохраняю соединение - им будут пользоваться дочерние классы
         self.connection = connection
 
 
@@ -44,7 +43,6 @@ class NotesRepository(BaseRepository):
 
     def create_table(self):
         cursor = self.connection.cursor()
-
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS notes (
                 id INT AUTO_INCREMENT PRIMARY KEY,
@@ -52,53 +50,32 @@ class NotesRepository(BaseRepository):
                 content TEXT
             )
         """)
-
         cursor.close()
 
     def insert(self, title, content):
         cursor = self.connection.cursor()
-
         cursor.execute(
             "INSERT INTO notes (title, content) VALUES (%s, %s)",
             (title, content)
         )
-
         cursor.close()
 
     def get_all(self):
         cursor = self.connection.cursor(dictionary=True)
-
         cursor.execute("SELECT * FROM notes")
-
         rows = cursor.fetchall()
-
         cursor.close()
-
         return rows
 
 
 if __name__ == "__main__":
     db_name = "060326_ptm_vitalii_malcov_hw"
-
-    # Открываю одно соединение и использую его для всего:
-    # и для создания базы, и для работы с таблицей notes
     with DatabaseConnection(dbconfig_write) as db:
-        # Шаг 1: создаю базу данных (тот же класс, что и в 01)
         DatabaseInitializer(db, db_name).create()
-
-        # Шаг 2: создаю объект репозитория для таблицы notes
         notes_repo = NotesRepository(db)
-
-        # Шаг 3: создаю таблицу notes
         notes_repo.create_table()
-
-        # Шаг 4: вставляю одну заметку
         notes_repo.insert("First Note", "This is the content of my first note.")
-
-        # Шаг 5: сохраняю изменения в базе (без commit() данные не сохранятся!)
         db.commit()
-
-        # Шаг 6: вывожу все заметки
         print("\nAll notes:")
         for note in notes_repo.get_all():
             print(note)
