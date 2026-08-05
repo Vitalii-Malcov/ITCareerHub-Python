@@ -1,0 +1,102 @@
+// Из базы данных ich работаем с коллекцией ich.Spotify_Youtube:
+
+// 1. Найдите трек с наивысшими показателями Danceability и Energy (в сумме)
+[
+  { $addFields: { danceEnergySum: { $add: ["$Danceability", "$Energy"] } } },
+  { $sort: { danceEnergySum: -1 } },
+  { $limit: 1 },
+  { $project: { Track: 1, Artist: 1, Danceability: 1, Energy: 1, danceEnergySum: 1 } }
+]
+
+#Вариант 2
+[
+  { $addFields: { danceEnergySum: { $add: ["$Danceability", "$Energy"] } } },
+  { $group: { _id: null, topTrack: { $top: {
+        sortBy: { danceEnergySum: -1 },
+        output: { Track: "$Track", Artist: "$Artist", danceEnergySum: "$danceEnergySum" } } } } }
+]
+
+
+// 2. У какого трека (но не compilation) самая большая длительность?
+[
+  { $match: { Album_type: { $ne: "compilation" } } },
+  { $sort: { Duration_ms: -1 } },
+  { $limit: 1 },
+  { $project: { Track: 1, Artist: 1, Album: 1, Album_type: 1, Duration_ms: 1 } }
+]
+
+#Вариант 2
+db.Spotify_Youtube
+  .find({ Album_type: { $ne: "compilation" } })
+  .sort({ Duration_ms: -1 })
+  .limit(1);
+
+
+// 3. В каком одном альбоме самое большее количество треков?
+[
+  { $group: { _id: "$Album", trackCount: { $sum: 1 } } },
+  { $sort: { trackCount: -1 } },
+  { $limit: 1 }
+]
+
+#Вариант 2
+[
+  { $sortByCount: "$Album" }
+]
+
+/* 4. Сколько просмотров видео на youtube у трека
+с самым высоким количеством прослушиваний на spotify (Stream)? */
+[
+  { $sort: { Stream: -1 } },
+  { $limit: 1 },
+  { $project: { Track: 1, Artist: 1, Stream: 1, Views: 1 } }
+]
+
+#Вариант 2
+[
+  { $group: { _id: null, result: { $top: { sortBy: { Stream: -1 },
+       output: { Track: "$Track", Stream: "$Stream", Views: "$Views" } } } } },
+]
+
+/* 5. Экспортируйте 20 самых популярных (прослушивания или просмотры) треков
+по версиям youtube и spotify и импортируйте в базу ich_edit их
+с именами top20youtube и top20spotify, и добавьте им свои имена для уникальности. */
+[
+  { $match: { Views: { $ne: null } } },
+  { $sort: { Views: -1 } },
+  { $limit: 20 },
+  { $addFields: { addedBy: "Vitalii_Malcov" } }, // своё имя для уникальности
+  { $project: { _id: 0 } }, // чтобы не тащить старые _id в другую БД
+  { $out: { db: "ich_edit", coll: "top20youtube" } }
+]
+
+###############################################################
+[
+  { $match: { Stream: { $ne: null } } },
+  { $sort: { Stream: -1 } },
+  { $limit: 20 },
+  { $addFields: { addedBy: "Vitalii_Malcov" } },
+  { $project: { _id: 0 } },
+  { $out: { db: "ich_edit", coll: "top20spotify" } }
+]
+
+#Вариант 2
+[
+  { $match: { Views: { $ne: null } } },
+  { $sort: { Views: -1 } },
+  { $limit: 20 },
+  { $addFields: { source: "youtube", addedBy: "Vitalii_Malcov" } },
+  { $project: { _id: 0 } },
+  {
+    $unionWith: {
+      coll: "Spotify_Youtube",
+      pipeline: [
+        { $match: { Stream: { $ne: null } } },
+        { $sort: { Stream: -1 } },
+        { $limit: 20 },
+        { $addFields: { source: "spotify", addedBy: "Vitalii_Malcov" } },
+        { $project: { _id: 0 } } ]
+    }
+  },
+  { $out: { db: "ich_edit", coll: "top20combined" } }
+]
