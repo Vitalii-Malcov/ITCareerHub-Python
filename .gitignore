@@ -32,6 +32,14 @@ local_settings_hw.py
 
 local_settings_pr.py
 
+local_settings_mon.py
+
+local_settings_pr_21.py
+
+local_settings_pr_21_2.py
+
+local_settings_hw_43.py
+
 mongo_connector.py
 
 .venv/
