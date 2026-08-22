@@ -1,0 +1,42 @@
+1. Найти рестораны на borough 'Staten Island' в названии которых есть слово pizza (Pizza и PIZZA тоже считаются)
+result = client['sample_data']['restaurants'].aggregate([
+    {
+        '$match': {
+            'borough': 'Staten Island',
+            'name': {
+                '$regex': 'pizza',
+                '$options': 'i'
+            }
+        }
+    }
+])
+
+2. Выведите названия 5 лучших по среднему значению отзывов
+
+result = client['sample_data']['restaurants'].aggregate([
+    {
+        '$unwind': '$grades'
+    },
+    {
+        '$group': {
+            '_id': '$_id',
+            'name': {'$first': '$name'},
+            'average_score': {'$avg': '$grades.score'}
+        }
+    },
+    {
+        '$sort': {
+            'average_score': -1
+        }
+    },
+    {
+        '$limit': 5
+    },
+    {
+        '$project': {
+            '_id': 0,
+            'name': 1,
+            'average_score': 1
+        }
+    }
+])
