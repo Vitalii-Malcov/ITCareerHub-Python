@@ -2,7 +2,7 @@ import models
 
 result = (
     models.session.query(models.Category.name, models.func.count(models.Product.id))
-    .join(models.Product)
+    .outerjoin(models.Product)
     .group_by(models.Category.name)
     .all()
 )
